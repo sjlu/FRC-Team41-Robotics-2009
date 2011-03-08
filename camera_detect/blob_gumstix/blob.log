@@ -1,0 +1,3021 @@
+Thu Jan  1 00:08:35 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:08:35 1970: Beginning main loop.
+Thu Jan  1 00:08:35 1970: Getting first jpeg.
+Thu Jan  1 00:08:35 1970: First jpeg received. Size: 45590
+Thu Jan  1 00:08:36 1970: Getting second jpeg.
+Thu Jan  1 00:08:36 1970: Second jpeg received. Size: 37078
+Thu Jan  1 00:08:36 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:08:37 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:08:37 1970: Camera 1 found no red blobs!
+Thu Jan  1 00:09:18 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:09:18 1970: Beginning main loop.
+Thu Jan  1 00:09:18 1970: Getting first jpeg.
+Thu Jan  1 00:09:19 1970: First jpeg received. Size: 46274
+Thu Jan  1 00:09:19 1970: Getting second jpeg.
+Thu Jan  1 00:09:19 1970: Second jpeg received. Size: 37281
+Thu Jan  1 00:09:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:09:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:09:20 1970: Camera 1 found no green blobs!
+Thu Jan  1 00:09:47 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:09:47 1970: Beginning main loop.
+Thu Jan  1 00:09:47 1970: Getting first jpeg.
+Thu Jan  1 00:09:47 1970: First jpeg received. Size: 43825
+Thu Jan  1 00:09:48 1970: Getting second jpeg.
+Thu Jan  1 00:09:48 1970: Second jpeg received. Size: 35702
+Thu Jan  1 00:09:48 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:09:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:09:49 1970: Camera 1 found no red blobs!
+Thu Jan  1 00:10:23 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:10:23 1970: Beginning main loop.
+Thu Jan  1 00:10:24 1970: Getting first jpeg.
+Thu Jan  1 00:10:24 1970: First jpeg received. Size: 47608
+Thu Jan  1 00:10:24 1970: Getting second jpeg.
+Thu Jan  1 00:10:25 1970: Second jpeg received. Size: 39894
+Thu Jan  1 00:10:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:26 1970: Camera 1 found no red blobs!
+Thu Jan  1 00:10:15 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:10:15 1970: Beginning main loop.
+Thu Jan  1 00:10:15 1970: Getting first jpeg.
+Thu Jan  1 00:10:16 1970: First jpeg received. Size: 47542
+Thu Jan  1 00:10:16 1970: Getting second jpeg.
+Thu Jan  1 00:10:16 1970: Second jpeg received. Size: 39771
+Thu Jan  1 00:10:16 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:17 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:17 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:18 1970: Thu Jan  1 00:10:18 1970
+Thu Jan  1 00:10:18 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:18 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:18 1970: Left Angle: 63.000000
+Thu Jan  1 00:10:18 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:18 1970: Depth: inf
+Thu Jan  1 00:10:18 1970: Image built. Writing to file: /media/card/img/IMG618.jpg
+Thu Jan  1 00:10:19 1970: Loop 0 finished.
+Thu Jan  1 00:10:19 1970: Getting first jpeg.
+Thu Jan  1 00:10:19 1970: First jpeg received. Size: 47884
+Thu Jan  1 00:10:19 1970: Getting second jpeg.
+Thu Jan  1 00:10:19 1970: Second jpeg received. Size: 39564
+Thu Jan  1 00:10:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:21 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:21 1970: Thu Jan  1 00:10:21 1970
+Thu Jan  1 00:10:21 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:21 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:21 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:21 1970: Right Angle: 512520.299958
+Thu Jan  1 00:10:21 1970: Depth: 6.148561
+Thu Jan  1 00:10:21 1970: Image built. Writing to file: /media/card/img/IMG621.jpg
+Thu Jan  1 00:10:22 1970: Loop 1 finished.
+Thu Jan  1 00:10:22 1970: Getting first jpeg.
+Thu Jan  1 00:10:22 1970: First jpeg received. Size: 48056
+Thu Jan  1 00:10:22 1970: Getting second jpeg.
+Thu Jan  1 00:10:22 1970: Second jpeg received. Size: 39899
+Thu Jan  1 00:10:22 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:23 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:24 1970: Thu Jan  1 00:10:24 1970
+Thu Jan  1 00:10:24 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:24 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:24 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:24 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:24 1970: Depth: 4.816116
+Thu Jan  1 00:10:24 1970: Image built. Writing to file: /media/card/img/IMG624.jpg
+Thu Jan  1 00:10:26 1970: Loop 2 finished.
+Thu Jan  1 00:10:26 1970: Getting first jpeg.
+Thu Jan  1 00:10:26 1970: First jpeg received. Size: 46556
+Thu Jan  1 00:10:27 1970: Getting second jpeg.
+Thu Jan  1 00:10:27 1970: Second jpeg received. Size: 39382
+Thu Jan  1 00:10:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:28 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:28 1970: Thu Jan  1 00:10:28 1970
+Thu Jan  1 00:10:28 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:28 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:28 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:28 1970: Right Angle: 322.200000
+Thu Jan  1 00:10:28 1970: Depth: 4.164544
+Thu Jan  1 00:10:29 1970: Image built. Writing to file: /media/card/img/IMG629.jpg
+Thu Jan  1 00:10:29 1970: Loop 3 finished.
+Thu Jan  1 00:10:29 1970: Getting first jpeg.
+Thu Jan  1 00:10:29 1970: First jpeg received. Size: 42589
+Thu Jan  1 00:10:29 1970: Getting second jpeg.
+Thu Jan  1 00:10:29 1970: Second jpeg received. Size: 36322
+Thu Jan  1 00:10:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:30 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:31 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:31 1970: Thu Jan  1 00:10:31 1970
+Thu Jan  1 00:10:31 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:31 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:31 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:31 1970: Right Angle: 84.178125
+Thu Jan  1 00:10:31 1970: Depth: 5.245093
+Thu Jan  1 00:10:31 1970: Image built. Writing to file: /media/card/img/IMG631.jpg
+Thu Jan  1 00:10:32 1970: Loop 4 finished.
+Thu Jan  1 00:10:32 1970: Getting first jpeg.
+Thu Jan  1 00:10:32 1970: First jpeg received. Size: 43693
+Thu Jan  1 00:10:32 1970: Getting second jpeg.
+Thu Jan  1 00:10:32 1970: Second jpeg received. Size: 37231
+Thu Jan  1 00:10:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:34 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:34 1970: Thu Jan  1 00:10:34 1970
+Thu Jan  1 00:10:34 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:34 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:34 1970: Left Angle: 63.000000
+Thu Jan  1 00:10:34 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:34 1970: Depth: inf
+Thu Jan  1 00:10:34 1970: Image built. Writing to file: /media/card/img/IMG634.jpg
+Thu Jan  1 00:10:35 1970: Loop 5 finished.
+Thu Jan  1 00:10:35 1970: Getting first jpeg.
+Thu Jan  1 00:10:35 1970: First jpeg received. Size: 43820
+Thu Jan  1 00:10:35 1970: Getting second jpeg.
+Thu Jan  1 00:10:35 1970: Second jpeg received. Size: 37381
+Thu Jan  1 00:10:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:36 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:37 1970: Thu Jan  1 00:10:37 1970
+Thu Jan  1 00:10:37 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:37 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:37 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:37 1970: Right Angle: 73.800000
+Thu Jan  1 00:10:37 1970: Depth: 5.037498
+Thu Jan  1 00:10:37 1970: Image built. Writing to file: /media/card/img/IMG637.jpg
+Thu Jan  1 00:10:37 1970: Loop 6 finished.
+Thu Jan  1 00:10:37 1970: Getting first jpeg.
+Thu Jan  1 00:10:38 1970: First jpeg received. Size: 43830
+Thu Jan  1 00:10:38 1970: Getting second jpeg.
+Thu Jan  1 00:10:38 1970: Second jpeg received. Size: 37609
+Thu Jan  1 00:10:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:39 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:39 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:40 1970: Thu Jan  1 00:10:40 1970
+Thu Jan  1 00:10:40 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:40 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:40 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:40 1970: Right Angle: 512466.974958
+Thu Jan  1 00:10:40 1970: Depth: -6.486248
+Thu Jan  1 00:10:40 1970: Image built. Writing to file: /media/card/img/IMG640.jpg
+Thu Jan  1 00:10:40 1970: Loop 7 finished.
+Thu Jan  1 00:10:40 1970: Getting first jpeg.
+Thu Jan  1 00:10:40 1970: First jpeg received. Size: 44576
+Thu Jan  1 00:10:41 1970: Getting second jpeg.
+Thu Jan  1 00:10:41 1970: Second jpeg received. Size: 37335
+Thu Jan  1 00:10:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:42 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:42 1970: Thu Jan  1 00:10:42 1970
+Thu Jan  1 00:10:42 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:43 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:43 1970: Left Angle: 84.684375
+Thu Jan  1 00:10:43 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:43 1970: Depth: 57.625375
+Thu Jan  1 00:10:43 1970: Image built. Writing to file: /media/card/img/IMG643.jpg
+Thu Jan  1 00:10:43 1970: Loop 8 finished.
+Thu Jan  1 00:10:43 1970: Getting first jpeg.
+Thu Jan  1 00:10:43 1970: First jpeg received. Size: 43180
+Thu Jan  1 00:10:43 1970: Getting second jpeg.
+Thu Jan  1 00:10:43 1970: Second jpeg received. Size: 37636
+Thu Jan  1 00:10:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:44 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:45 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:45 1970: Thu Jan  1 00:10:45 1970
+Thu Jan  1 00:10:45 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:45 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:45 1970: Left Angle: 63.000000
+Thu Jan  1 00:10:45 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:45 1970: Depth: inf
+Thu Jan  1 00:10:45 1970: Image built. Writing to file: /media/card/img/IMG645.jpg
+Thu Jan  1 00:10:46 1970: Loop 9 finished.
+Thu Jan  1 00:10:46 1970: Getting first jpeg.
+Thu Jan  1 00:10:46 1970: First jpeg received. Size: 44393
+Thu Jan  1 00:10:46 1970: Getting second jpeg.
+Thu Jan  1 00:10:46 1970: Second jpeg received. Size: 38103
+Thu Jan  1 00:10:46 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:47 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:48 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:48 1970: Thu Jan  1 00:10:48 1970
+Thu Jan  1 00:10:48 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:48 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:48 1970: Left Angle: 63.000000
+Thu Jan  1 00:10:48 1970: Right Angle: 1411147.799885
+Thu Jan  1 00:10:48 1970: Depth: 18.674111
+Thu Jan  1 00:10:48 1970: Image built. Writing to file: /media/card/img/IMG648.jpg
+Thu Jan  1 00:10:49 1970: Loop 10 finished.
+Thu Jan  1 00:10:49 1970: Getting first jpeg.
+Thu Jan  1 00:10:49 1970: First jpeg received. Size: 44861
+Thu Jan  1 00:10:49 1970: Getting second jpeg.
+Thu Jan  1 00:10:49 1970: Second jpeg received. Size: 38303
+Thu Jan  1 00:10:49 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:50 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:51 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:51 1970: Thu Jan  1 00:10:51 1970
+Thu Jan  1 00:10:51 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:51 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:51 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:51 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:51 1970: Depth: 4.816116
+Thu Jan  1 00:10:51 1970: Image built. Writing to file: /media/card/img/IMG651.jpg
+Thu Jan  1 00:10:52 1970: Loop 11 finished.
+Thu Jan  1 00:10:52 1970: Getting first jpeg.
+Thu Jan  1 00:10:52 1970: First jpeg received. Size: 44017
+Thu Jan  1 00:10:52 1970: Getting second jpeg.
+Thu Jan  1 00:10:52 1970: Second jpeg received. Size: 38043
+Thu Jan  1 00:10:52 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:53 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:54 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:54 1970: Thu Jan  1 00:10:54 1970
+Thu Jan  1 00:10:54 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:54 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:54 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:54 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:54 1970: Depth: 4.816116
+Thu Jan  1 00:10:54 1970: Image built. Writing to file: /media/card/img/IMG654.jpg
+Thu Jan  1 00:10:55 1970: Loop 12 finished.
+Thu Jan  1 00:10:55 1970: Getting first jpeg.
+Thu Jan  1 00:10:55 1970: First jpeg received. Size: 43813
+Thu Jan  1 00:10:55 1970: Getting second jpeg.
+Thu Jan  1 00:10:55 1970: Second jpeg received. Size: 37858
+Thu Jan  1 00:10:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:56 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:10:57 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:10:57 1970: Thu Jan  1 00:10:57 1970
+Thu Jan  1 00:10:57 1970: Left Centroid: 300, 424
+Thu Jan  1 00:10:57 1970: Right Centroid: 422, 233
+Thu Jan  1 00:10:57 1970: Left Angle: 5592.600000
+Thu Jan  1 00:10:57 1970: Right Angle: 63.000000
+Thu Jan  1 00:10:57 1970: Depth: 4.816116
+Thu Jan  1 00:10:57 1970: Image built. Writing to file: /media/card/img/IMG657.jpg
+Thu Jan  1 00:10:58 1970: Loop 13 finished.
+Thu Jan  1 00:10:58 1970: Getting first jpeg.
+Thu Jan  1 00:10:58 1970: First jpeg received. Size: 44065
+Thu Jan  1 00:10:58 1970: Getting second jpeg.
+Thu Jan  1 00:10:58 1970: Second jpeg received. Size: 37836
+Thu Jan  1 00:10:58 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:10:59 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:11:00 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:11:00 1970: Thu Jan  1 00:11:00 1970
+Thu Jan  1 00:11:00 1970: Left Centroid: 300, 424
+Thu Jan  1 00:11:00 1970: Right Centroid: 422, 233
+Thu Jan  1 00:11:00 1970: Left Angle: 5592.600000
+Thu Jan  1 00:11:00 1970: Right Angle: 63.000000
+Thu Jan  1 00:11:00 1970: Depth: 4.816116
+Thu Jan  1 00:11:00 1970: Image built. Writing to file: /media/card/img/IMG660.jpg
+Thu Jan  1 00:11:01 1970: Loop 14 finished.
+Thu Jan  1 00:11:01 1970: Getting first jpeg.
+Thu Jan  1 00:11:01 1970: First jpeg received. Size: 46118
+Thu Jan  1 00:11:01 1970: Getting second jpeg.
+Thu Jan  1 00:11:01 1970: Second jpeg received. Size: 36489
+Thu Jan  1 00:11:01 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:11:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:11:03 1970: Camera 1 found no red blobs!
+Thu Jan  1 00:14:28 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:14:28 1970: Got tolerance values from /media/card/img/colors.tol.
+Thu Jan  1 00:14:28 1970: Seeking red targets.
+Thu Jan  1 00:14:28 1970: Beginning main loop.
+Thu Jan  1 00:14:28 1970: Getting first jpeg.
+Thu Jan  1 00:14:28 1970: First jpeg received. Size: 79073
+Thu Jan  1 00:14:28 1970: Getting second jpeg.
+Thu Jan  1 00:14:29 1970: Second jpeg received. Size: 77312
+Thu Jan  1 00:14:29 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:30 1970: EE: No targets found.
+Thu Jan  1 00:14:30 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:14:30 1970: Image built. Writing to file: /media/card/img/IMG870.jpg
+Thu Jan  1 00:14:31 1970: Loop 0 finished.
+Thu Jan  1 00:14:31 1970: Getting first jpeg.
+Thu Jan  1 00:14:31 1970: First jpeg received. Size: 49447
+Thu Jan  1 00:14:31 1970: Getting second jpeg.
+Thu Jan  1 00:14:31 1970: Second jpeg received. Size: 67722
+Thu Jan  1 00:14:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:33 1970: EE: No targets found.
+Thu Jan  1 00:14:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:33 1970: Loop 1 finished.
+Thu Jan  1 00:14:33 1970: Getting first jpeg.
+Thu Jan  1 00:14:33 1970: First jpeg received. Size: 33232
+Thu Jan  1 00:14:33 1970: Getting second jpeg.
+Thu Jan  1 00:14:33 1970: Second jpeg received. Size: 72249
+Thu Jan  1 00:14:33 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:34 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:35 1970: EE: No targets found.
+Thu Jan  1 00:14:35 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:35 1970: Loop 2 finished.
+Thu Jan  1 00:14:35 1970: Getting first jpeg.
+Thu Jan  1 00:14:35 1970: First jpeg received. Size: 35093
+Thu Jan  1 00:14:35 1970: Getting second jpeg.
+Thu Jan  1 00:14:35 1970: Second jpeg received. Size: 72202
+Thu Jan  1 00:14:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:37 1970: EE: No targets found.
+Thu Jan  1 00:14:37 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:37 1970: Loop 3 finished.
+Thu Jan  1 00:14:37 1970: Getting first jpeg.
+Thu Jan  1 00:14:37 1970: First jpeg received. Size: 23797
+Thu Jan  1 00:14:37 1970: Getting second jpeg.
+Thu Jan  1 00:14:37 1970: Second jpeg received. Size: 77404
+Thu Jan  1 00:14:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:38 1970: EE: No targets found.
+Thu Jan  1 00:14:38 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:38 1970: Loop 4 finished.
+Thu Jan  1 00:14:38 1970: Getting first jpeg.
+Thu Jan  1 00:14:39 1970: First jpeg received. Size: 34751
+Thu Jan  1 00:14:39 1970: Getting second jpeg.
+Thu Jan  1 00:14:39 1970: Second jpeg received. Size: 69692
+Thu Jan  1 00:14:39 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:40 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:40 1970: EE: No targets found.
+Thu Jan  1 00:14:40 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:40 1970: Loop 5 finished.
+Thu Jan  1 00:14:40 1970: Getting first jpeg.
+Thu Jan  1 00:14:41 1970: First jpeg received. Size: 5826
+Thu Jan  1 00:14:41 1970: Getting second jpeg.
+Thu Jan  1 00:14:41 1970: Second jpeg received. Size: 64596
+Thu Jan  1 00:14:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:42 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:42 1970: EE: No targets found.
+Thu Jan  1 00:14:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:42 1970: Loop 6 finished.
+Thu Jan  1 00:14:42 1970: Getting first jpeg.
+Thu Jan  1 00:14:42 1970: First jpeg received. Size: 10485
+Thu Jan  1 00:14:43 1970: Getting second jpeg.
+Thu Jan  1 00:14:43 1970: Second jpeg received. Size: 64653
+Thu Jan  1 00:14:43 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:44 1970: EE: No targets found.
+Thu Jan  1 00:14:44 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:44 1970: Loop 7 finished.
+Thu Jan  1 00:14:44 1970: Getting first jpeg.
+Thu Jan  1 00:14:44 1970: First jpeg received. Size: 45788
+Thu Jan  1 00:14:44 1970: Getting second jpeg.
+Thu Jan  1 00:14:45 1970: Second jpeg received. Size: 64163
+Thu Jan  1 00:14:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:46 1970: EE: No targets found.
+Thu Jan  1 00:14:46 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:46 1970: Loop 8 finished.
+Thu Jan  1 00:14:46 1970: Getting first jpeg.
+Thu Jan  1 00:14:46 1970: First jpeg received. Size: 22478
+Thu Jan  1 00:14:46 1970: Getting second jpeg.
+Thu Jan  1 00:14:46 1970: Second jpeg received. Size: 66727
+Thu Jan  1 00:14:47 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:47 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:48 1970: EE: No targets found.
+Thu Jan  1 00:14:48 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:48 1970: Loop 9 finished.
+Thu Jan  1 00:14:48 1970: Getting first jpeg.
+Thu Jan  1 00:14:48 1970: First jpeg received. Size: 32260
+Thu Jan  1 00:14:48 1970: Getting second jpeg.
+Thu Jan  1 00:14:48 1970: Second jpeg received. Size: 58356
+Thu Jan  1 00:14:49 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:49 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:50 1970: EE: No targets found.
+Thu Jan  1 00:14:50 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:50 1970: Loop 10 finished.
+Thu Jan  1 00:14:50 1970: Getting first jpeg.
+Thu Jan  1 00:14:50 1970: First jpeg received. Size: 42013
+Thu Jan  1 00:14:50 1970: Getting second jpeg.
+Thu Jan  1 00:14:50 1970: Second jpeg received. Size: 53180
+Thu Jan  1 00:14:51 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:51 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:52 1970: EE: No targets found.
+Thu Jan  1 00:14:52 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:52 1970: Loop 11 finished.
+Thu Jan  1 00:14:52 1970: Getting first jpeg.
+Thu Jan  1 00:14:52 1970: First jpeg received. Size: 23277
+Thu Jan  1 00:14:52 1970: Getting second jpeg.
+Thu Jan  1 00:14:52 1970: Second jpeg received. Size: 68975
+Thu Jan  1 00:14:52 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:53 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:54 1970: EE: No targets found.
+Thu Jan  1 00:14:54 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:54 1970: Loop 12 finished.
+Thu Jan  1 00:14:54 1970: Getting first jpeg.
+Thu Jan  1 00:14:54 1970: First jpeg received. Size: 30377
+Thu Jan  1 00:14:54 1970: Getting second jpeg.
+Thu Jan  1 00:14:54 1970: Second jpeg received. Size: 70211
+Thu Jan  1 00:14:54 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:55 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:55 1970: EE: No targets found.
+Thu Jan  1 00:14:55 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:55 1970: Loop 13 finished.
+Thu Jan  1 00:14:56 1970: Getting first jpeg.
+Thu Jan  1 00:14:56 1970: First jpeg received. Size: 36287
+Thu Jan  1 00:14:56 1970: Getting second jpeg.
+Thu Jan  1 00:14:56 1970: Second jpeg received. Size: 79016
+Thu Jan  1 00:14:56 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:57 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:58 1970: EE: No targets found.
+Thu Jan  1 00:14:58 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:58 1970: Loop 14 finished.
+Thu Jan  1 00:14:58 1970: Getting first jpeg.
+Thu Jan  1 00:14:58 1970: First jpeg received. Size: 37714
+Thu Jan  1 00:14:58 1970: Getting second jpeg.
+Thu Jan  1 00:14:58 1970: Second jpeg received. Size: 74892
+Thu Jan  1 00:14:58 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:14:59 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:14:59 1970: EE: No targets found.
+Thu Jan  1 00:14:59 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:14:59 1970: Loop 15 finished.
+Thu Jan  1 00:14:59 1970: Getting first jpeg.
+Thu Jan  1 00:15:00 1970: First jpeg received. Size: 32832
+Thu Jan  1 00:15:00 1970: Getting second jpeg.
+Thu Jan  1 00:15:00 1970: Second jpeg received. Size: 78665
+Thu Jan  1 00:15:00 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:01 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:01 1970: EE: No targets found.
+Thu Jan  1 00:15:01 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:01 1970: Loop 16 finished.
+Thu Jan  1 00:15:01 1970: Getting first jpeg.
+Thu Jan  1 00:15:02 1970: First jpeg received. Size: 41035
+Thu Jan  1 00:15:02 1970: Getting second jpeg.
+Thu Jan  1 00:15:02 1970: Second jpeg received. Size: 71645
+Thu Jan  1 00:15:02 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:03 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:03 1970: EE: No targets found.
+Thu Jan  1 00:15:03 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:03 1970: Loop 17 finished.
+Thu Jan  1 00:15:03 1970: Getting first jpeg.
+Thu Jan  1 00:15:04 1970: First jpeg received. Size: 29153
+Thu Jan  1 00:15:04 1970: Getting second jpeg.
+Thu Jan  1 00:15:04 1970: Second jpeg received. Size: 78740
+Thu Jan  1 00:15:04 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:05 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:05 1970: EE: No targets found.
+Thu Jan  1 00:15:05 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:05 1970: Loop 18 finished.
+Thu Jan  1 00:15:05 1970: Getting first jpeg.
+Thu Jan  1 00:15:05 1970: First jpeg received. Size: 39013
+Thu Jan  1 00:15:06 1970: Getting second jpeg.
+Thu Jan  1 00:15:06 1970: Second jpeg received. Size: 72705
+Thu Jan  1 00:15:06 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:07 1970: EE: No targets found.
+Thu Jan  1 00:15:07 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:07 1970: Loop 19 finished.
+Thu Jan  1 00:15:07 1970: Getting first jpeg.
+Thu Jan  1 00:15:07 1970: First jpeg received. Size: 38815
+Thu Jan  1 00:15:07 1970: Getting second jpeg.
+Thu Jan  1 00:15:08 1970: Second jpeg received. Size: 70196
+Thu Jan  1 00:15:08 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:08 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:09 1970: EE: No targets found.
+Thu Jan  1 00:15:09 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:09 1970: Loop 20 finished.
+Thu Jan  1 00:15:09 1970: Getting first jpeg.
+Thu Jan  1 00:15:09 1970: First jpeg received. Size: 44399
+Thu Jan  1 00:15:09 1970: Getting second jpeg.
+Thu Jan  1 00:15:09 1970: Second jpeg received. Size: 70988
+Thu Jan  1 00:15:10 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:10 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:11 1970: EE: No targets found.
+Thu Jan  1 00:15:11 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:11 1970: Loop 21 finished.
+Thu Jan  1 00:15:11 1970: Getting first jpeg.
+Thu Jan  1 00:15:11 1970: First jpeg received. Size: 46293
+Thu Jan  1 00:15:11 1970: Getting second jpeg.
+Thu Jan  1 00:15:11 1970: Second jpeg received. Size: 69499
+Thu Jan  1 00:15:12 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:12 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:13 1970: EE: No targets found.
+Thu Jan  1 00:15:13 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:13 1970: Loop 22 finished.
+Thu Jan  1 00:15:13 1970: Getting first jpeg.
+Thu Jan  1 00:15:13 1970: First jpeg received. Size: 45198
+Thu Jan  1 00:15:13 1970: Getting second jpeg.
+Thu Jan  1 00:15:13 1970: Second jpeg received. Size: 70163
+Thu Jan  1 00:15:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:14 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:15 1970: EE: No targets found.
+Thu Jan  1 00:15:15 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:15 1970: Loop 23 finished.
+Thu Jan  1 00:15:15 1970: Getting first jpeg.
+Thu Jan  1 00:15:15 1970: First jpeg received. Size: 43107
+Thu Jan  1 00:15:15 1970: Getting second jpeg.
+Thu Jan  1 00:15:15 1970: Second jpeg received. Size: 69557
+Thu Jan  1 00:15:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:16 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:17 1970: EE: No targets found.
+Thu Jan  1 00:15:17 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:17 1970: Loop 24 finished.
+Thu Jan  1 00:15:17 1970: Getting first jpeg.
+Thu Jan  1 00:15:17 1970: First jpeg received. Size: 44162
+Thu Jan  1 00:15:17 1970: Getting second jpeg.
+Thu Jan  1 00:15:17 1970: Second jpeg received. Size: 67703
+Thu Jan  1 00:15:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:18 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:19 1970: EE: No targets found.
+Thu Jan  1 00:15:19 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:19 1970: Loop 25 finished.
+Thu Jan  1 00:15:19 1970: Getting first jpeg.
+Thu Jan  1 00:15:19 1970: First jpeg received. Size: 44729
+Thu Jan  1 00:15:19 1970: Getting second jpeg.
+Thu Jan  1 00:15:19 1970: Second jpeg received. Size: 69835
+Thu Jan  1 00:15:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:20 1970: EE: No targets found.
+Thu Jan  1 00:15:20 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:20 1970: Loop 26 finished.
+Thu Jan  1 00:15:20 1970: Getting first jpeg.
+Thu Jan  1 00:15:20 1970: First jpeg received. Size: 31635
+Thu Jan  1 00:15:21 1970: Getting second jpeg.
+Thu Jan  1 00:15:21 1970: Second jpeg received. Size: 76581
+Thu Jan  1 00:15:21 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:21 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:22 1970: EE: No targets found.
+Thu Jan  1 00:15:22 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:22 1970: Loop 27 finished.
+Thu Jan  1 00:15:22 1970: Getting first jpeg.
+Thu Jan  1 00:15:22 1970: First jpeg received. Size: 52317
+Thu Jan  1 00:15:22 1970: Getting second jpeg.
+Thu Jan  1 00:15:22 1970: Second jpeg received. Size: 66681
+Thu Jan  1 00:15:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:24 1970: EE: No targets found.
+Thu Jan  1 00:15:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:24 1970: Loop 28 finished.
+Thu Jan  1 00:15:24 1970: Getting first jpeg.
+Thu Jan  1 00:15:24 1970: First jpeg received. Size: 52679
+Thu Jan  1 00:15:24 1970: Getting second jpeg.
+Thu Jan  1 00:15:24 1970: Second jpeg received. Size: 66751
+Thu Jan  1 00:15:24 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:26 1970: EE: No targets found.
+Thu Jan  1 00:15:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:26 1970: Loop 29 finished.
+Thu Jan  1 00:15:26 1970: Getting first jpeg.
+Thu Jan  1 00:15:26 1970: First jpeg received. Size: 60861
+Thu Jan  1 00:15:26 1970: Getting second jpeg.
+Thu Jan  1 00:15:26 1970: Second jpeg received. Size: 58618
+Thu Jan  1 00:15:26 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:27 1970: EE: No targets found.
+Thu Jan  1 00:15:27 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:27 1970: Loop 30 finished.
+Thu Jan  1 00:15:27 1970: Getting first jpeg.
+Thu Jan  1 00:15:28 1970: First jpeg received. Size: 58289
+Thu Jan  1 00:15:28 1970: Getting second jpeg.
+Thu Jan  1 00:15:28 1970: Second jpeg received. Size: 60897
+Thu Jan  1 00:15:28 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:29 1970: EE: No targets found.
+Thu Jan  1 00:15:29 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:29 1970: Loop 31 finished.
+Thu Jan  1 00:15:29 1970: Getting first jpeg.
+Thu Jan  1 00:15:29 1970: First jpeg received. Size: 62753
+Thu Jan  1 00:15:30 1970: Getting second jpeg.
+Thu Jan  1 00:15:30 1970: Second jpeg received. Size: 54757
+Thu Jan  1 00:15:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:31 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:31 1970: EE: No targets found.
+Thu Jan  1 00:15:31 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:31 1970: Loop 32 finished.
+Thu Jan  1 00:15:31 1970: Getting first jpeg.
+Thu Jan  1 00:15:31 1970: First jpeg received. Size: 58881
+Thu Jan  1 00:15:32 1970: Getting second jpeg.
+Thu Jan  1 00:15:32 1970: Second jpeg received. Size: 59691
+Thu Jan  1 00:15:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:33 1970: EE: No targets found.
+Thu Jan  1 00:15:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:33 1970: Loop 33 finished.
+Thu Jan  1 00:15:33 1970: Getting first jpeg.
+Thu Jan  1 00:15:33 1970: First jpeg received. Size: 50827
+Thu Jan  1 00:15:33 1970: Getting second jpeg.
+Thu Jan  1 00:15:33 1970: Second jpeg received. Size: 56126
+Thu Jan  1 00:15:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:34 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:35 1970: EE: No targets found.
+Thu Jan  1 00:15:35 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:35 1970: Loop 34 finished.
+Thu Jan  1 00:15:35 1970: Getting first jpeg.
+Thu Jan  1 00:15:35 1970: First jpeg received. Size: 43138
+Thu Jan  1 00:15:35 1970: Getting second jpeg.
+Thu Jan  1 00:15:35 1970: Second jpeg received. Size: 61929
+Thu Jan  1 00:15:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:36 1970: EE: No targets found.
+Thu Jan  1 00:15:36 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:36 1970: Loop 35 finished.
+Thu Jan  1 00:15:36 1970: Getting first jpeg.
+Thu Jan  1 00:15:37 1970: First jpeg received. Size: 51875
+Thu Jan  1 00:15:37 1970: Getting second jpeg.
+Thu Jan  1 00:15:37 1970: Second jpeg received. Size: 76057
+Thu Jan  1 00:15:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:38 1970: EE: No targets found.
+Thu Jan  1 00:15:38 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:38 1970: Loop 36 finished.
+Thu Jan  1 00:15:38 1970: Getting first jpeg.
+Thu Jan  1 00:15:39 1970: First jpeg received. Size: 47090
+Thu Jan  1 00:15:39 1970: Getting second jpeg.
+Thu Jan  1 00:15:39 1970: Second jpeg received. Size: 79201
+Thu Jan  1 00:15:39 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:40 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:40 1970: EE: No targets found.
+Thu Jan  1 00:15:40 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:40 1970: Loop 37 finished.
+Thu Jan  1 00:15:40 1970: Getting first jpeg.
+Thu Jan  1 00:15:40 1970: First jpeg received. Size: 44148
+Thu Jan  1 00:15:40 1970: Getting second jpeg.
+Thu Jan  1 00:15:41 1970: Second jpeg received. Size: 78977
+Thu Jan  1 00:15:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:42 1970: EE: No targets found.
+Thu Jan  1 00:15:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:42 1970: Loop 38 finished.
+Thu Jan  1 00:15:42 1970: Getting first jpeg.
+Thu Jan  1 00:15:42 1970: First jpeg received. Size: 47529
+Thu Jan  1 00:15:42 1970: Getting second jpeg.
+Thu Jan  1 00:15:42 1970: Second jpeg received. Size: 78525
+Thu Jan  1 00:15:42 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:44 1970: EE: No targets found.
+Thu Jan  1 00:15:44 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:44 1970: Loop 39 finished.
+Thu Jan  1 00:15:44 1970: Getting first jpeg.
+Thu Jan  1 00:15:44 1970: First jpeg received. Size: 48315
+Thu Jan  1 00:15:44 1970: Getting second jpeg.
+Thu Jan  1 00:15:44 1970: Second jpeg received. Size: 77947
+Thu Jan  1 00:15:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:15:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:15:45 1970: EE: No targets found.
+Thu Jan  1 00:15:45 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:15:45 1970: Loop 40 finished.
+Thu Jan  1 00:15:45 1970: Getting first jpeg.
+Thu Jan  1 00:15:46 1970: First jpeg received. Size: 43125
+Thu Jan  1 00:15:46 1970: Getting second jpeg.
+Thu Jan  1 00:15:46 1970: Second jpeg received. Size: 76299
+Thu Jan  1 00:15:46 1970: Detecting blobs on camera 1.
+ThuThu Jan  1 00:36:22 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:36:22 1970: Got tolerance values from /media/card/img/colors.tol.
+Thu Jan  1 00:36:22 1970: Seeking red targets.
+Thu Jan  1 00:36:22 1970: Beginning main loop.
+Thu Jan  1 00:36:22 1970: Getting first jpeg.
+Thu Jan  1 00:36:22 1970: First jpeg received. Size: 49746
+Thu Jan  1 00:36:22 1970: Getting second jpeg.
+Thu Jan  1 00:36:22 1970: Second jpeg received. Size: 62322
+Thu Jan  1 00:36:22 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:24 1970: EE: No targets found.
+Thu Jan  1 00:36:24 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:36:24 1970: Image built. Writing to file: /media/card/img/TEST2-2184.jpg
+Thu Jan  1 00:36:25 1970: Loop 0 finished.
+Thu Jan  1 00:36:25 1970: Getting first jpeg.
+Thu Jan  1 00:36:25 1970: First jpeg received. Size: 52371
+Thu Jan  1 00:36:25 1970: Getting second jpeg.
+Thu Jan  1 00:36:25 1970: Second jpeg received. Size: 61053
+Thu Jan  1 00:36:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:26 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:26 1970: EE: No targets found.
+Thu Jan  1 00:36:26 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:36:27 1970: Image built. Writing to file: /media/card/img/TEST2-2187.jpg
+Thu Jan  1 00:36:27 1970: Loop 1 finished.
+Thu Jan  1 00:36:27 1970: Getting first jpeg.
+Thu Jan  1 00:36:28 1970: First jpeg received. Size: 52764
+Thu Jan  1 00:36:28 1970: Getting second jpeg.
+Thu Jan  1 00:36:28 1970: Second jpeg received. Size: 61769
+Thu Jan  1 00:36:28 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:30 1970: EE: No targets found.
+Thu Jan  1 00:36:30 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:30 1970: Loop 2 finished.
+Thu Jan  1 00:36:30 1970: Getting first jpeg.
+Thu Jan  1 00:36:30 1970: First jpeg received. Size: 42782
+Thu Jan  1 00:36:30 1970: Getting second jpeg.
+Thu Jan  1 00:36:30 1970: Second jpeg received. Size: 55714
+Thu Jan  1 00:36:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:31 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:31 1970: EE: No targets found.
+Thu Jan  1 00:36:31 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:31 1970: Loop 3 finished.
+Thu Jan  1 00:36:32 1970: Getting first jpeg.
+Thu Jan  1 00:36:32 1970: First jpeg received. Size: 58185
+Thu Jan  1 00:36:32 1970: Getting second jpeg.
+Thu Jan  1 00:36:32 1970: Second jpeg received. Size: 68188
+Thu Jan  1 00:36:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:33 1970: EE: No targets found.
+Thu Jan  1 00:36:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:34 1970: Loop 4 finished.
+Thu Jan  1 00:36:34 1970: Getting first jpeg.
+Thu Jan  1 00:36:34 1970: First jpeg received. Size: 58339
+Thu Jan  1 00:36:34 1970: Getting second jpeg.
+Thu Jan  1 00:36:34 1970: Second jpeg received. Size: 68621
+Thu Jan  1 00:36:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:36 1970: EE: No targets found.
+Thu Jan  1 00:36:36 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:36:36 1970: Image built. Writing to file: /media/card/img/TEST2-2196.jpg
+Thu Jan  1 00:36:37 1970: Loop 5 finished.
+Thu Jan  1 00:36:37 1970: Getting first jpeg.
+Thu Jan  1 00:36:37 1970: First jpeg received. Size: 58396
+Thu Jan  1 00:36:37 1970: Getting second jpeg.
+Thu Jan  1 00:36:37 1970: Second jpeg received. Size: 68085
+Thu Jan  1 00:36:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:39 1970: EE: No targets found.
+Thu Jan  1 00:36:39 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:36:39 1970: Image built. Writing to file: /media/card/img/TEST2-2199.jpg
+Thu Jan  1 00:36:40 1970: Loop 6 finished.
+Thu Jan  1 00:36:40 1970: Getting first jpeg.
+Thu Jan  1 00:36:40 1970: First jpeg received. Size: 58361
+Thu Jan  1 00:36:40 1970: Getting second jpeg.
+Thu Jan  1 00:36:40 1970: Second jpeg received. Size: 61558
+Thu Jan  1 00:36:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:42 1970: EE: No targets found.
+Thu Jan  1 00:36:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:42 1970: Loop 7 finished.
+Thu Jan  1 00:36:42 1970: Getting first jpeg.
+Thu Jan  1 00:36:42 1970: First jpeg received. Size: 58273
+Thu Jan  1 00:36:42 1970: Getting second jpeg.
+Thu Jan  1 00:36:42 1970: Second jpeg received. Size: 67145
+Thu Jan  1 00:36:42 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:43 1970: EE: No targets found.
+Thu Jan  1 00:36:43 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:36:44 1970: Image built. Writing to file: /media/card/img/TEST2-2204.jpg
+Thu Jan  1 00:36:45 1970: Loop 8 finished.
+Thu Jan  1 00:36:45 1970: Getting first jpeg.
+Thu Jan  1 00:36:45 1970: First jpeg received. Size: 56562
+Thu Jan  1 00:36:45 1970: Getting second jpeg.
+Thu Jan  1 00:36:45 1970: Second jpeg received. Size: 70113
+Thu Jan  1 00:36:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:47 1970: EE: No targets found.
+Thu Jan  1 00:36:47 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:47 1970: Loop 9 finished.
+Thu Jan  1 00:36:47 1970: Getting first jpeg.
+Thu Jan  1 00:36:47 1970: First jpeg received. Size: 54036
+Thu Jan  1 00:36:47 1970: Getting second jpeg.
+Thu Jan  1 00:36:47 1970: Second jpeg received. Size: 67221
+Thu Jan  1 00:36:47 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:49 1970: EE: No targets found.
+Thu Jan  1 00:36:49 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:49 1970: Loop 10 finished.
+Thu Jan  1 00:36:49 1970: Getting first jpeg.
+Thu Jan  1 00:36:49 1970: First jpeg received. Size: 55769
+Thu Jan  1 00:36:49 1970: Getting second jpeg.
+Thu Jan  1 00:36:49 1970: Second jpeg received. Size: 65436
+Thu Jan  1 00:36:49 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:50 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:50 1970: EE: No targets found.
+Thu Jan  1 00:36:50 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:50 1970: Loop 11 finished.
+Thu Jan  1 00:36:50 1970: Getting first jpeg.
+Thu Jan  1 00:36:51 1970: First jpeg received. Size: 55653
+Thu Jan  1 00:36:51 1970: Getting second jpeg.
+Thu Jan  1 00:36:51 1970: Second jpeg received. Size: 69759
+Thu Jan  1 00:36:51 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:52 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:52 1970: EE: No targets found.
+Thu Jan  1 00:36:52 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:52 1970: Loop 12 finished.
+Thu Jan  1 00:36:52 1970: Getting first jpeg.
+Thu Jan  1 00:36:52 1970: First jpeg received. Size: 55059
+Thu Jan  1 00:36:53 1970: Getting second jpeg.
+Thu Jan  1 00:36:53 1970: Second jpeg received. Size: 68551
+Thu Jan  1 00:36:53 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:53 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:54 1970: EE: No targets found.
+Thu Jan  1 00:36:54 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:54 1970: Loop 13 finished.
+Thu Jan  1 00:36:54 1970: Getting first jpeg.
+Thu Jan  1 00:36:54 1970: First jpeg received. Size: 54971
+Thu Jan  1 00:36:54 1970: Getting second jpeg.
+Thu Jan  1 00:36:55 1970: Second jpeg received. Size: 66585
+Thu Jan  1 00:36:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:55 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:56 1970: EE: No targets found.
+Thu Jan  1 00:36:56 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:56 1970: Loop 14 finished.
+Thu Jan  1 00:36:56 1970: Getting first jpeg.
+Thu Jan  1 00:36:56 1970: First jpeg received. Size: 56966
+Thu Jan  1 00:36:56 1970: Getting second jpeg.
+Thu Jan  1 00:36:56 1970: Second jpeg received. Size: 68442
+Thu Jan  1 00:36:57 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:57 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:36:58 1970: EE: No targets found.
+Thu Jan  1 00:36:58 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:36:58 1970: Loop 15 finished.
+Thu Jan  1 00:36:58 1970: Getting first jpeg.
+Thu Jan  1 00:36:58 1970: First jpeg received. Size: 56637
+Thu Jan  1 00:36:58 1970: Getting second jpeg.
+Thu Jan  1 00:36:58 1970: Second jpeg received. Size: 66537
+Thu Jan  1 00:36:58 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:36:59 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:00 1970: EE: No targets found.
+Thu Jan  1 00:37:00 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:00 1970: Loop 16 finished.
+Thu Jan  1 00:37:00 1970: Getting first jpeg.
+Thu Jan  1 00:37:00 1970: First jpeg received. Size: 57323
+Thu Jan  1 00:37:00 1970: Getting second jpeg.
+Thu Jan  1 00:37:00 1970: Second jpeg received. Size: 69122
+Thu Jan  1 00:37:00 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:01 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:02 1970: EE: No targets found.
+Thu Jan  1 00:37:02 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:02 1970: Loop 17 finished.
+Thu Jan  1 00:37:02 1970: Getting first jpeg.
+Thu Jan  1 00:37:02 1970: First jpeg received. Size: 57408
+Thu Jan  1 00:37:02 1970: Getting second jpeg.
+Thu Jan  1 00:37:02 1970: Second jpeg received. Size: 70234
+Thu Jan  1 00:37:03 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:03 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:04 1970: EE: No targets found.
+Thu Jan  1 00:37:04 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:04 1970: Loop 18 finished.
+Thu Jan  1 00:37:04 1970: Getting first jpeg.
+Thu Jan  1 00:37:04 1970: First jpeg received. Size: 57216
+Thu Jan  1 00:37:04 1970: Getting second jpeg.
+Thu Jan  1 00:37:04 1970: Second jpeg received. Size: 70401
+Thu Jan  1 00:37:05 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:05 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:06 1970: EE: No targets found.
+Thu Jan  1 00:37:06 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:06 1970: Loop 19 finished.
+Thu Jan  1 00:37:06 1970: Getting first jpeg.
+Thu Jan  1 00:37:06 1970: First jpeg received. Size: 57407
+Thu Jan  1 00:37:06 1970: Getting second jpeg.
+Thu Jan  1 00:37:06 1970: Second jpeg received. Size: 69147
+Thu Jan  1 00:37:06 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:08 1970: EE: No targets found.
+Thu Jan  1 00:37:08 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:08 1970: Loop 20 finished.
+Thu Jan  1 00:37:08 1970: Getting first jpeg.
+Thu Jan  1 00:37:08 1970: First jpeg received. Size: 57306
+Thu Jan  1 00:37:08 1970: Getting second jpeg.
+Thu Jan  1 00:37:08 1970: Second jpeg received. Size: 68680
+Thu Jan  1 00:37:08 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:09 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:10 1970: EE: No targets found.
+Thu Jan  1 00:37:10 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:10 1970: Loop 21 finished.
+Thu Jan  1 00:37:10 1970: Getting first jpeg.
+Thu Jan  1 00:37:10 1970: First jpeg received. Size: 57281
+Thu Jan  1 00:37:10 1970: Getting second jpeg.
+Thu Jan  1 00:37:10 1970: Second jpeg received. Size: 67004
+Thu Jan  1 00:37:11 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:11 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:12 1970: EE: No targets found.
+Thu Jan  1 00:37:12 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:12 1970: Loop 22 finished.
+Thu Jan  1 00:37:12 1970: Getting first jpeg.
+Thu Jan  1 00:37:12 1970: First jpeg received. Size: 57323
+Thu Jan  1 00:37:12 1970: Getting second jpeg.
+Thu Jan  1 00:37:12 1970: Second jpeg received. Size: 69439
+Thu Jan  1 00:37:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:13 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:14 1970: EE: No targets found.
+Thu Jan  1 00:37:14 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:14 1970: Loop 23 finished.
+Thu Jan  1 00:37:14 1970: Getting first jpeg.
+Thu Jan  1 00:37:14 1970: First jpeg received. Size: 57543
+Thu Jan  1 00:37:14 1970: Getting second jpeg.
+Thu Jan  1 00:37:14 1970: Second jpeg received. Size: 68072
+Thu Jan  1 00:37:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:15 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:16 1970: EE: No targets found.
+Thu Jan  1 00:37:16 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:16 1970: Loop 24 finished.
+Thu Jan  1 00:37:16 1970: Getting first jpeg.
+Thu Jan  1 00:37:16 1970: First jpeg received. Size: 57733
+Thu Jan  1 00:37:16 1970: Getting second jpeg.
+Thu Jan  1 00:37:17 1970: Second jpeg received. Size: 67862
+Thu Jan  1 00:37:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:17 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:18 1970: EE: No targets found.
+Thu Jan  1 00:37:18 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:18 1970: Loop 25 finished.
+Thu Jan  1 00:37:18 1970: Getting first jpeg.
+Thu Jan  1 00:37:18 1970: First jpeg received. Size: 57658
+Thu Jan  1 00:37:18 1970: Getting second jpeg.
+Thu Jan  1 00:37:19 1970: Second jpeg received. Size: 68898
+Thu Jan  1 00:37:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:20 1970: EE: No targets found.
+Thu Jan  1 00:37:20 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:20 1970: Loop 26 finished.
+Thu Jan  1 00:37:20 1970: Getting first jpeg.
+Thu Jan  1 00:37:20 1970: First jpeg received. Size: 57754
+Thu Jan  1 00:37:21 1970: Getting second jpeg.
+Thu Jan  1 00:37:21 1970: Second jpeg received. Size: 70558
+Thu Jan  1 00:37:21 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:22 1970: EE: No targets found.
+Thu Jan  1 00:37:22 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:22 1970: Loop 27 finished.
+Thu Jan  1 00:37:22 1970: Getting first jpeg.
+Thu Jan  1 00:37:22 1970: First jpeg received. Size: 57696
+Thu Jan  1 00:37:22 1970: Getting second jpeg.
+Thu Jan  1 00:37:23 1970: Second jpeg received. Size: 70669
+Thu Jan  1 00:37:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:24 1970: EE: No targets found.
+Thu Jan  1 00:37:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:24 1970: Loop 28 finished.
+Thu Jan  1 00:37:24 1970: Getting first jpeg.
+Thu Jan  1 00:37:24 1970: First jpeg received. Size: 57825
+Thu Jan  1 00:37:24 1970: Getting second jpeg.
+Thu Jan  1 00:37:24 1970: Second jpeg received. Size: 69077
+Thu Jan  1 00:37:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:26 1970: EE: No targets found.
+Thu Jan  1 00:37:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:26 1970: Loop 29 finished.
+Thu Jan  1 00:37:26 1970: Getting first jpeg.
+Thu Jan  1 00:37:26 1970: First jpeg received. Size: 57874
+Thu Jan  1 00:37:26 1970: Getting second jpeg.
+Thu Jan  1 00:37:26 1970: Second jpeg received. Size: 68844
+Thu Jan  1 00:37:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:28 1970: EE: No targets found.
+Thu Jan  1 00:37:28 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:28 1970: Loop 30 finished.
+Thu Jan  1 00:37:28 1970: Getting first jpeg.
+Thu Jan  1 00:37:28 1970: First jpeg received. Size: 57861
+Thu Jan  1 00:37:28 1970: Getting second jpeg.
+Thu Jan  1 00:37:28 1970: Second jpeg received. Size: 68998
+Thu Jan  1 00:37:28 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:30 1970: EE: No targets found.
+Thu Jan  1 00:37:30 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:30 1970: Loop 31 finished.
+Thu Jan  1 00:37:30 1970: Getting first jpeg.
+Thu Jan  1 00:37:30 1970: First jpeg received. Size: 57802
+Thu Jan  1 00:37:30 1970: Getting second jpeg.
+Thu Jan  1 00:37:30 1970: Second jpeg received. Size: 69188
+Thu Jan  1 00:37:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:31 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:32 1970: EE: No targets found.
+Thu Jan  1 00:37:32 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:32 1970: Loop 32 finished.
+Thu Jan  1 00:37:32 1970: Getting first jpeg.
+Thu Jan  1 00:37:32 1970: First jpeg received. Size: 57720
+Thu Jan  1 00:37:32 1970: Getting second jpeg.
+Thu Jan  1 00:37:32 1970: Second jpeg received. Size: 68196
+Thu Jan  1 00:37:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:34 1970: EE: No targets found.
+Thu Jan  1 00:37:34 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:34 1970: Loop 33 finished.
+Thu Jan  1 00:37:34 1970: Getting first jpeg.
+Thu Jan  1 00:37:34 1970: First jpeg received. Size: 56433
+Thu Jan  1 00:37:34 1970: Getting second jpeg.
+Thu Jan  1 00:37:34 1970: Second jpeg received. Size: 61510
+Thu Jan  1 00:37:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:36 1970: EE: No targets found.
+Thu Jan  1 00:37:36 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:36 1970: Loop 34 finished.
+Thu Jan  1 00:37:36 1970: Getting first jpeg.
+Thu Jan  1 00:37:36 1970: First jpeg received. Size: 55770
+Thu Jan  1 00:37:36 1970: Getting second jpeg.
+Thu Jan  1 00:37:36 1970: Second jpeg received. Size: 56170
+Thu Jan  1 00:37:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:37 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:38 1970: EE: No targets found.
+Thu Jan  1 00:37:38 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:38 1970: Loop 35 finished.
+Thu Jan  1 00:37:38 1970: Getting first jpeg.
+Thu Jan  1 00:37:38 1970: First jpeg received. Size: 57772
+Thu Jan  1 00:37:38 1970: Getting second jpeg.
+Thu Jan  1 00:37:38 1970: Second jpeg received. Size: 64438
+Thu Jan  1 00:37:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:39 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:40 1970: EE: No targets found.
+Thu Jan  1 00:37:40 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:40 1970: Loop 36 finished.
+Thu Jan  1 00:37:40 1970: Getting first jpeg.
+Thu Jan  1 00:37:40 1970: First jpeg received. Size: 57731
+Thu Jan  1 00:37:40 1970: Getting second jpeg.
+Thu Jan  1 00:37:40 1970: Second jpeg received. Size: 61700
+Thu Jan  1 00:37:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:41 1970: EE: No targets found.
+Thu Jan  1 00:37:41 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:41 1970: Loop 37 finished.
+Thu Jan  1 00:37:42 1970: Getting first jpeg.
+Thu Jan  1 00:37:42 1970: First jpeg received. Size: 57628
+Thu Jan  1 00:37:42 1970: Getting second jpeg.
+Thu Jan  1 00:37:42 1970: Second jpeg received. Size: 68834
+Thu Jan  1 00:37:42 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:43 1970: EE: No targets found.
+Thu Jan  1 00:37:43 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:43 1970: Loop 38 finished.
+Thu Jan  1 00:37:43 1970: Getting first jpeg.
+Thu Jan  1 00:37:44 1970: First jpeg received. Size: 57808
+Thu Jan  1 00:37:44 1970: Getting second jpeg.
+Thu Jan  1 00:37:44 1970: Second jpeg received. Size: 69316
+Thu Jan  1 00:37:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:45 1970: EE: No targets found.
+Thu Jan  1 00:37:45 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:45 1970: Loop 39 finished.
+Thu Jan  1 00:37:45 1970: Getting first jpeg.
+Thu Jan  1 00:37:45 1970: First jpeg received. Size: 57883
+Thu Jan  1 00:37:45 1970: Getting second jpeg.
+Thu Jan  1 00:37:46 1970: Second jpeg received. Size: 66158
+Thu Jan  1 00:37:46 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:47 1970: EE: No targets found.
+Thu Jan  1 00:37:47 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:47 1970: Loop 40 finished.
+Thu Jan  1 00:37:47 1970: Getting first jpeg.
+Thu Jan  1 00:37:47 1970: First jpeg received. Size: 57732
+Thu Jan  1 00:37:47 1970: Getting second jpeg.
+Thu Jan  1 00:37:48 1970: Second jpeg received. Size: 65283
+Thu Jan  1 00:37:48 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:49 1970: EE: No targets found.
+Thu Jan  1 00:37:49 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:49 1970: Loop 41 finished.
+Thu Jan  1 00:37:49 1970: Getting first jpeg.
+Thu Jan  1 00:37:49 1970: First jpeg received. Size: 57742
+Thu Jan  1 00:37:49 1970: Getting second jpeg.
+Thu Jan  1 00:37:49 1970: Second jpeg received. Size: 64688
+Thu Jan  1 00:37:50 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:50 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:51 1970: EE: No targets found.
+Thu Jan  1 00:37:51 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:51 1970: Loop 42 finished.
+Thu Jan  1 00:37:51 1970: Getting first jpeg.
+Thu Jan  1 00:37:51 1970: First jpeg received. Size: 57606
+Thu Jan  1 00:37:51 1970: Getting second jpeg.
+Thu Jan  1 00:37:51 1970: Second jpeg received. Size: 67073
+Thu Jan  1 00:37:51 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:52 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:53 1970: EE: No targets found.
+Thu Jan  1 00:37:53 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:53 1970: Loop 43 finished.
+Thu Jan  1 00:37:53 1970: Getting first jpeg.
+Thu Jan  1 00:37:53 1970: First jpeg received. Size: 57670
+Thu Jan  1 00:37:53 1970: Getting second jpeg.
+Thu Jan  1 00:37:53 1970: Second jpeg received. Size: 69339
+Thu Jan  1 00:37:53 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:54 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:55 1970: EE: No targets found.
+Thu Jan  1 00:37:55 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:55 1970: Loop 44 finished.
+Thu Jan  1 00:37:55 1970: Getting first jpeg.
+Thu Jan  1 00:37:55 1970: First jpeg received. Size: 57824
+Thu Jan  1 00:37:55 1970: Getting second jpeg.
+Thu Jan  1 00:37:55 1970: Second jpeg received. Size: 66721
+Thu Jan  1 00:37:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:56 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:57 1970: EE: No targets found.
+Thu Jan  1 00:37:57 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:57 1970: Loop 45 finished.
+Thu Jan  1 00:37:57 1970: Getting first jpeg.
+Thu Jan  1 00:37:57 1970: First jpeg received. Size: 57902
+Thu Jan  1 00:37:57 1970: Getting second jpeg.
+Thu Jan  1 00:37:57 1970: Second jpeg received. Size: 66439
+Thu Jan  1 00:37:57 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:37:58 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:37:58 1970: EE: No targets found.
+Thu Jan  1 00:37:58 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:37:58 1970: Loop 46 finished.
+Thu Jan  1 00:37:58 1970: Getting first jpeg.
+Thu Jan  1 00:37:59 1970: First jpeg received. Size: 57785
+Thu Jan  1 00:37:59 1970: Getting second jpeg.
+Thu Jan  1 00:37:59 1970: Second jpeg received. Size: 68869
+Thu Jan  1 00:37:59 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:38:00 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:38:00 1970: EE: No targets found.
+Thu Jan  1 00:38:00 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:38:00 1970: Loop 47 finished.
+Thu Jan  1 00:38:00 1970: Getting first jpeg.
+Thu Jan  1 00:38:01 1970: First jpeg received. Size: 57910
+Thu Jan  1 00:38:01 1970: Getting second jpeg.
+Thu Jan  1 00:38:01 1970: Second jpeg received. Size: 69290
+Thu Jan  1 00:38:01 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:38:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:38:02 1970: EE: No targets found.
+Thu Jan  1 00:38:02 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:38:02 1970: Loop 48 finished.
+Thu Jan  1 00:38:02 1970: Getting first jpeg.
+Thu Jan  1 00:38:03 1970: First jpeg received. Size: 57871
+Thu Jan  1 00:38:03 1970: Getting seThu Jan  1 00:51:08 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:51:08 1970: Got tolerance values from /media/card/img/colors.tol.
+Thu Jan  1 00:51:08 1970: Seeking red targets.
+Thu Jan  1 00:51:08 1970: Beginning main loop.
+Thu Jan  1 00:51:08 1970: Getting first jpeg.
+Thu Jan  1 00:51:08 1970: First jpeg received. Size: 68442
+Thu Jan  1 00:51:08 1970: Getting second jpeg.
+Thu Jan  1 00:51:08 1970: Second jpeg received. Size: 71435
+Thu Jan  1 00:51:08 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:09 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:09 1970: EE: No targets found.
+Thu Jan  1 00:51:09 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:10 1970: Image built. Writing to file: /media/card/img/TEST4-3070.jpg
+Thu Jan  1 00:51:10 1970: Loop 0 finished.
+Thu Jan  1 00:51:10 1970: Getting first jpeg.
+Thu Jan  1 00:51:11 1970: First jpeg received. Size: 68350
+Thu Jan  1 00:51:11 1970: Getting second jpeg.
+Thu Jan  1 00:51:11 1970: Second jpeg received. Size: 71369
+Thu Jan  1 00:51:11 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:12 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:12 1970: EE: No targets found.
+Thu Jan  1 00:51:12 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:13 1970: Image built. Writing to file: /media/card/img/TEST4-3073.jpg
+Thu Jan  1 00:51:13 1970: Loop 1 finished.
+Thu Jan  1 00:51:13 1970: Getting first jpeg.
+Thu Jan  1 00:51:14 1970: First jpeg received. Size: 68228
+Thu Jan  1 00:51:14 1970: Getting second jpeg.
+Thu Jan  1 00:51:14 1970: Second jpeg received. Size: 71537
+Thu Jan  1 00:51:14 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:15 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:15 1970: EE: No targets found.
+Thu Jan  1 00:51:15 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:16 1970: Image built. Writing to file: /media/card/img/TEST4-3076.jpg
+Thu Jan  1 00:51:16 1970: Loop 2 finished.
+Thu Jan  1 00:51:16 1970: Getting first jpeg.
+Thu Jan  1 00:51:16 1970: First jpeg received. Size: 68315
+Thu Jan  1 00:51:17 1970: Getting second jpeg.
+Thu Jan  1 00:51:17 1970: Second jpeg received. Size: 71268
+Thu Jan  1 00:51:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:18 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:18 1970: EE: No targets found.
+Thu Jan  1 00:51:18 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:19 1970: Image built. Writing to file: /media/card/img/TEST4-3079.jpg
+Thu Jan  1 00:51:19 1970: Loop 3 finished.
+Thu Jan  1 00:51:19 1970: Getting first jpeg.
+Thu Jan  1 00:51:20 1970: First jpeg received. Size: 68286
+Thu Jan  1 00:51:20 1970: Getting second jpeg.
+Thu Jan  1 00:51:20 1970: Second jpeg received. Size: 71456
+Thu Jan  1 00:51:20 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:22 1970: EE: No targets found.
+Thu Jan  1 00:51:22 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:23 1970: Image built. Writing to file: /media/card/img/TEST4-3083.jpg
+Thu Jan  1 00:51:23 1970: Loop 4 finished.
+Thu Jan  1 00:51:23 1970: Getting first jpeg.
+Thu Jan  1 00:51:24 1970: First jpeg received. Size: 68183
+Thu Jan  1 00:51:24 1970: Getting second jpeg.
+Thu Jan  1 00:51:24 1970: Second jpeg received. Size: 71413
+Thu Jan  1 00:51:24 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:25 1970: EE: No targets found.
+Thu Jan  1 00:51:25 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:26 1970: Image built. Writing to file: /media/card/img/TEST4-3086.jpg
+Thu Jan  1 00:51:26 1970: Loop 5 finished.
+Thu Jan  1 00:51:26 1970: Getting first jpeg.
+Thu Jan  1 00:51:27 1970: First jpeg received. Size: 68301
+Thu Jan  1 00:51:27 1970: Getting second jpeg.
+Thu Jan  1 00:51:27 1970: Second jpeg received. Size: 71583
+Thu Jan  1 00:51:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:28 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:28 1970: EE: No targets found.
+Thu Jan  1 00:51:28 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:29 1970: Image built. Writing to file: /media/card/img/TEST4-3089.jpg
+Thu Jan  1 00:51:29 1970: Loop 6 finished.
+Thu Jan  1 00:51:29 1970: Getting first jpeg.
+Thu Jan  1 00:51:29 1970: First jpeg received. Size: 68394
+Thu Jan  1 00:51:30 1970: Getting second jpeg.
+Thu Jan  1 00:51:30 1970: Second jpeg received. Size: 71273
+Thu Jan  1 00:51:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:30 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:31 1970: EE: No targets found.
+Thu Jan  1 00:51:31 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:51:31 1970: Loop 7 finished.
+Thu Jan  1 00:51:31 1970: Getting first jpeg.
+Thu Jan  1 00:51:31 1970: First jpeg received. Size: 68320
+Thu Jan  1 00:51:31 1970: Getting second jpeg.
+Thu Jan  1 00:51:32 1970: Second jpeg received. Size: 71580
+Thu Jan  1 00:51:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:33 1970: EE: No targets found.
+Thu Jan  1 00:51:33 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:33 1970: Image built. Writing to file: /media/card/img/TEST4-3093.jpg
+Thu Jan  1 00:51:34 1970: Loop 8 finished.
+Thu Jan  1 00:51:34 1970: Getting first jpeg.
+Thu Jan  1 00:51:34 1970: First jpeg received. Size: 68373
+Thu Jan  1 00:51:35 1970: Getting second jpeg.
+Thu Jan  1 00:51:35 1970: Second jpeg received. Size: 71814
+Thu Jan  1 00:51:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:36 1970: EE: No targets found.
+Thu Jan  1 00:51:36 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:36 1970: Image built. Writing to file: /media/card/img/TEST4-3096.jpg
+Thu Jan  1 00:51:37 1970: Loop 9 finished.
+Thu Jan  1 00:51:37 1970: Getting first jpeg.
+Thu Jan  1 00:51:37 1970: First jpeg received. Size: 68433
+Thu Jan  1 00:51:38 1970: Getting second jpeg.
+Thu Jan  1 00:51:38 1970: Second jpeg received. Size: 71642
+Thu Jan  1 00:51:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:39 1970: EE: No targets found.
+Thu Jan  1 00:51:39 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:40 1970: Image built. Writing to file: /media/card/img/TEST4-3100.jpg
+Thu Jan  1 00:51:40 1970: Loop 10 finished.
+Thu Jan  1 00:51:40 1970: Getting first jpeg.
+Thu Jan  1 00:51:40 1970: First jpeg received. Size: 68380
+Thu Jan  1 00:51:40 1970: Getting second jpeg.
+Thu Jan  1 00:51:41 1970: Second jpeg received. Size: 71616
+Thu Jan  1 00:51:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:42 1970: EE: No targets found.
+Thu Jan  1 00:51:42 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:43 1970: Image built. Writing to file: /media/card/img/TEST4-3103.jpg
+Thu Jan  1 00:51:43 1970: Loop 11 finished.
+Thu Jan  1 00:51:43 1970: Getting first jpeg.
+Thu Jan  1 00:51:43 1970: First jpeg received. Size: 68370
+Thu Jan  1 00:51:43 1970: Getting second jpeg.
+Thu Jan  1 00:51:44 1970: Second jpeg received. Size: 71586
+Thu Jan  1 00:51:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:45 1970: EE: No targets found.
+Thu Jan  1 00:51:45 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:51:45 1970: Loop 12 finished.
+Thu Jan  1 00:51:45 1970: Getting first jpeg.
+Thu Jan  1 00:51:45 1970: First jpeg received. Size: 68187
+Thu Jan  1 00:51:46 1970: Getting second jpeg.
+Thu Jan  1 00:51:46 1970: Second jpeg received. Size: 71460
+Thu Jan  1 00:51:46 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:47 1970: EE: No targets found.
+Thu Jan  1 00:51:47 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:51:47 1970: Loop 13 finished.
+Thu Jan  1 00:51:47 1970: Getting first jpeg.
+Thu Jan  1 00:51:47 1970: First jpeg received. Size: 68108
+Thu Jan  1 00:51:47 1970: Getting second jpeg.
+Thu Jan  1 00:51:48 1970: Second jpeg received. Size: 71459
+Thu Jan  1 00:51:48 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:49 1970: EE: No targets found.
+Thu Jan  1 00:51:49 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:49 1970: Image built. Writing to file: /media/card/img/TEST4-3109.jpg
+Thu Jan  1 00:51:50 1970: Loop 14 finished.
+Thu Jan  1 00:51:50 1970: Getting first jpeg.
+Thu Jan  1 00:51:50 1970: First jpeg received. Size: 68061
+Thu Jan  1 00:51:50 1970: Getting second jpeg.
+Thu Jan  1 00:51:51 1970: Second jpeg received. Size: 71065
+Thu Jan  1 00:51:51 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:51 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:52 1970: EE: No targets found.
+Thu Jan  1 00:51:52 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:52 1970: Image built. Writing to file: /media/card/img/TEST4-3112.jpg
+Thu Jan  1 00:51:53 1970: Loop 15 finished.
+Thu Jan  1 00:51:53 1970: Getting first jpeg.
+Thu Jan  1 00:51:53 1970: First jpeg received. Size: 68396
+Thu Jan  1 00:51:53 1970: Getting second jpeg.
+Thu Jan  1 00:51:53 1970: Second jpeg received. Size: 71430
+Thu Jan  1 00:51:54 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:54 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:55 1970: EE: No targets found.
+Thu Jan  1 00:51:55 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:51:55 1970: Loop 16 finished.
+Thu Jan  1 00:51:55 1970: Getting first jpeg.
+Thu Jan  1 00:51:55 1970: First jpeg received. Size: 68443
+Thu Jan  1 00:51:55 1970: Getting second jpeg.
+Thu Jan  1 00:51:55 1970: Second jpeg received. Size: 71531
+Thu Jan  1 00:51:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:56 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:51:57 1970: EE: No targets found.
+Thu Jan  1 00:51:57 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:51:57 1970: Image built. Writing to file: /media/card/img/TEST4-3117.jpg
+Thu Jan  1 00:51:58 1970: Loop 17 finished.
+Thu Jan  1 00:51:58 1970: Getting first jpeg.
+Thu Jan  1 00:51:58 1970: First jpeg received. Size: 68456
+Thu Jan  1 00:51:58 1970: Getting second jpeg.
+Thu Jan  1 00:51:58 1970: Second jpeg received. Size: 71518
+Thu Jan  1 00:51:59 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:51:59 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:00 1970: EE: No targets found.
+Thu Jan  1 00:52:00 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:00 1970: Image built. Writing to file: /media/card/img/TEST4-3120.jpg
+Thu Jan  1 00:52:01 1970: Loop 18 finished.
+Thu Jan  1 00:52:01 1970: Getting first jpeg.
+Thu Jan  1 00:52:01 1970: First jpeg received. Size: 68355
+Thu Jan  1 00:52:01 1970: Getting second jpeg.
+Thu Jan  1 00:52:02 1970: Second jpeg received. Size: 71497
+Thu Jan  1 00:52:02 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:03 1970: EE: No targets found.
+Thu Jan  1 00:52:03 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:04 1970: Image built. Writing to file: /media/card/img/TEST4-3124.jpg
+Thu Jan  1 00:52:04 1970: Loop 19 finished.
+Thu Jan  1 00:52:04 1970: Getting first jpeg.
+Thu Jan  1 00:52:04 1970: First jpeg received. Size: 68225
+Thu Jan  1 00:52:04 1970: Getting second jpeg.
+Thu Jan  1 00:52:05 1970: Second jpeg received. Size: 71482
+Thu Jan  1 00:52:05 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:05 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:06 1970: EE: No targets found.
+Thu Jan  1 00:52:06 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:06 1970: Loop 20 finished.
+Thu Jan  1 00:52:06 1970: Getting first jpeg.
+Thu Jan  1 00:52:06 1970: First jpeg received. Size: 68275
+Thu Jan  1 00:52:06 1970: Getting second jpeg.
+Thu Jan  1 00:52:06 1970: Second jpeg received. Size: 71548
+Thu Jan  1 00:52:07 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:08 1970: EE: No targets found.
+Thu Jan  1 00:52:08 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:08 1970: Image built. Writing to file: /media/card/img/TEST4-3128.jpg
+Thu Jan  1 00:52:09 1970: Loop 21 finished.
+Thu Jan  1 00:52:09 1970: Getting first jpeg.
+Thu Jan  1 00:52:09 1970: First jpeg received. Size: 68153
+Thu Jan  1 00:52:09 1970: Getting second jpeg.
+Thu Jan  1 00:52:09 1970: Second jpeg received. Size: 71475
+Thu Jan  1 00:52:10 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:10 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:11 1970: EE: No targets found.
+Thu Jan  1 00:52:11 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:11 1970: Image built. Writing to file: /media/card/img/TEST4-3131.jpg
+Thu Jan  1 00:52:12 1970: Loop 22 finished.
+Thu Jan  1 00:52:12 1970: Getting first jpeg.
+Thu Jan  1 00:52:12 1970: First jpeg received. Size: 68452
+Thu Jan  1 00:52:12 1970: Getting second jpeg.
+Thu Jan  1 00:52:12 1970: Second jpeg received. Size: 71595
+Thu Jan  1 00:52:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:13 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:14 1970: EE: No targets found.
+Thu Jan  1 00:52:14 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:14 1970: Image built. Writing to file: /media/card/img/TEST4-3134.jpg
+Thu Jan  1 00:52:15 1970: Loop 23 finished.
+Thu Jan  1 00:52:15 1970: Getting first jpeg.
+Thu Jan  1 00:52:15 1970: First jpeg received. Size: 68200
+Thu Jan  1 00:52:15 1970: Getting second jpeg.
+Thu Jan  1 00:52:15 1970: Second jpeg received. Size: 71181
+Thu Jan  1 00:52:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:16 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:17 1970: EE: No targets found.
+Thu Jan  1 00:52:17 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:17 1970: Image built. Writing to file: /media/card/img/TEST4-3137.jpg
+Thu Jan  1 00:52:18 1970: Loop 24 finished.
+Thu Jan  1 00:52:18 1970: Getting first jpeg.
+Thu Jan  1 00:52:18 1970: First jpeg received. Size: 68325
+Thu Jan  1 00:52:18 1970: Getting second jpeg.
+Thu Jan  1 00:52:18 1970: Second jpeg received. Size: 71643
+Thu Jan  1 00:52:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:19 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:20 1970: EE: No targets found.
+Thu Jan  1 00:52:20 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:20 1970: Image built. Writing to file: /media/card/img/TEST4-3140.jpg
+Thu Jan  1 00:52:21 1970: Loop 25 finished.
+Thu Jan  1 00:52:21 1970: Getting first jpeg.
+Thu Jan  1 00:52:21 1970: First jpeg received. Size: 68324
+Thu Jan  1 00:52:21 1970: Getting second jpeg.
+Thu Jan  1 00:52:21 1970: Second jpeg received. Size: 71450
+Thu Jan  1 00:52:22 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:23 1970: EE: No targets found.
+Thu Jan  1 00:52:23 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:23 1970: Image built. Writing to file: /media/card/img/TEST4-3143.jpg
+Thu Jan  1 00:52:24 1970: Loop 26 finished.
+Thu Jan  1 00:52:24 1970: Getting first jpeg.
+Thu Jan  1 00:52:24 1970: First jpeg received. Size: 68318
+Thu Jan  1 00:52:24 1970: Getting second jpeg.
+Thu Jan  1 00:52:24 1970: Second jpeg received. Size: 71654
+Thu Jan  1 00:52:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:26 1970: EE: No targets found.
+Thu Jan  1 00:52:26 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:26 1970: Image built. Writing to file: /media/card/img/TEST4-3146.jpg
+Thu Jan  1 00:52:27 1970: Loop 27 finished.
+Thu Jan  1 00:52:27 1970: Getting first jpeg.
+Thu Jan  1 00:52:27 1970: First jpeg received. Size: 68243
+Thu Jan  1 00:52:27 1970: Getting second jpeg.
+Thu Jan  1 00:52:27 1970: Second jpeg received. Size: 71639
+Thu Jan  1 00:52:28 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:28 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:29 1970: EE: No targets found.
+Thu Jan  1 00:52:29 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:29 1970: Loop 28 finished.
+Thu Jan  1 00:52:29 1970: Getting first jpeg.
+Thu Jan  1 00:52:29 1970: First jpeg received. Size: 68335
+Thu Jan  1 00:52:29 1970: Getting second jpeg.
+Thu Jan  1 00:52:29 1970: Second jpeg received. Size: 71553
+Thu Jan  1 00:52:29 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:30 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:31 1970: EE: No targets found.
+Thu Jan  1 00:52:31 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:31 1970: Image built. Writing to file: /media/card/img/TEST4-3151.jpg
+Thu Jan  1 00:52:32 1970: Loop 29 finished.
+Thu Jan  1 00:52:32 1970: Getting first jpeg.
+Thu Jan  1 00:52:32 1970: First jpeg received. Size: 68282
+Thu Jan  1 00:52:32 1970: Getting second jpeg.
+Thu Jan  1 00:52:33 1970: Second jpeg received. Size: 71646
+Thu Jan  1 00:52:33 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:34 1970: EE: No targets found.
+Thu Jan  1 00:52:34 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:34 1970: Loop 30 finished.
+Thu Jan  1 00:52:34 1970: Getting first jpeg.
+Thu Jan  1 00:52:34 1970: First jpeg received. Size: 68332
+Thu Jan  1 00:52:34 1970: Getting second jpeg.
+Thu Jan  1 00:52:35 1970: Second jpeg received. Size: 71539
+Thu Jan  1 00:52:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:36 1970: EE: No targets found.
+Thu Jan  1 00:52:36 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:37 1970: Image built. Writing to file: /media/card/img/TEST4-3157.jpg
+Thu Jan  1 00:52:37 1970: Loop 31 finished.
+Thu Jan  1 00:52:37 1970: Getting first jpeg.
+Thu Jan  1 00:52:37 1970: First jpeg received. Size: 68334
+Thu Jan  1 00:52:38 1970: Getting second jpeg.
+Thu Jan  1 00:52:38 1970: Second jpeg received. Size: 71713
+Thu Jan  1 00:52:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:39 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:39 1970: EE: No targets found.
+Thu Jan  1 00:52:39 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:40 1970: Image built. Writing to file: /media/card/img/TEST4-3160.jpg
+Thu Jan  1 00:52:40 1970: Loop 32 finished.
+Thu Jan  1 00:52:40 1970: Getting first jpeg.
+Thu Jan  1 00:52:40 1970: First jpeg received. Size: 68190
+Thu Jan  1 00:52:40 1970: Getting second jpeg.
+Thu Jan  1 00:52:41 1970: Second jpeg received. Size: 71465
+Thu Jan  1 00:52:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:42 1970: EE: No targets found.
+Thu Jan  1 00:52:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:42 1970: Loop 33 finished.
+Thu Jan  1 00:52:42 1970: Getting first jpeg.
+Thu Jan  1 00:52:42 1970: First jpeg received. Size: 68356
+Thu Jan  1 00:52:43 1970: Getting second jpeg.
+Thu Jan  1 00:52:43 1970: Second jpeg received. Size: 71437
+Thu Jan  1 00:52:43 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:44 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:44 1970: EE: No targets found.
+Thu Jan  1 00:52:44 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:44 1970: Loop 34 finished.
+Thu Jan  1 00:52:44 1970: Getting first jpeg.
+Thu Jan  1 00:52:44 1970: First jpeg received. Size: 68198
+Thu Jan  1 00:52:44 1970: Getting second jpeg.
+Thu Jan  1 00:52:45 1970: Second jpeg received. Size: 71425
+Thu Jan  1 00:52:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:46 1970: EE: No targets found.
+Thu Jan  1 00:52:46 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:52:46 1970: Loop 35 finished.
+Thu Jan  1 00:52:46 1970: Getting first jpeg.
+Thu Jan  1 00:52:46 1970: First jpeg received. Size: 68222
+Thu Jan  1 00:52:46 1970: Getting second jpeg.
+Thu Jan  1 00:52:47 1970: Second jpeg received. Size: 71469
+Thu Jan  1 00:52:47 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:47 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:48 1970: EE: No targets found.
+Thu Jan  1 00:52:48 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:49 1970: Image built. Writing to file: /media/card/img/TEST4-3169.jpg
+Thu Jan  1 00:52:49 1970: Loop 36 finished.
+Thu Jan  1 00:52:49 1970: Getting first jpeg.
+Thu Jan  1 00:52:49 1970: First jpeg received. Size: 68028
+Thu Jan  1 00:52:50 1970: Getting second jpeg.
+Thu Jan  1 00:52:50 1970: Second jpeg received. Size: 71343
+Thu Jan  1 00:52:50 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:51 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:51 1970: EE: No targets found.
+Thu Jan  1 00:52:51 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:52 1970: Image built. Writing to file: /media/card/img/TEST4-3172.jpg
+Thu Jan  1 00:52:52 1970: Loop 37 finished.
+Thu Jan  1 00:52:52 1970: Getting first jpeg.
+Thu Jan  1 00:52:53 1970: First jpeg received. Size: 68057
+Thu Jan  1 00:52:53 1970: Getting second jpeg.
+Thu Jan  1 00:52:53 1970: Second jpeg received. Size: 71270
+Thu Jan  1 00:52:53 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:54 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:54 1970: EE: No targets found.
+Thu Jan  1 00:52:54 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:55 1970: Image built. Writing to file: /media/card/img/TEST4-3175.jpg
+Thu Jan  1 00:52:55 1970: Loop 38 finished.
+Thu Jan  1 00:52:55 1970: Getting first jpeg.
+Thu Jan  1 00:52:55 1970: First jpeg received. Size: 68129
+Thu Jan  1 00:52:56 1970: Getting second jpeg.
+Thu Jan  1 00:52:56 1970: Second jpeg received. Size: 71417
+Thu Jan  1 00:52:56 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:52:57 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:52:57 1970: EE: No targets found.
+Thu Jan  1 00:52:57 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:52:58 1970: Image built. Writing to file: /media/card/img/TEST4-3178.jpg
+Thu Jan  1 00:52:58 1970: Loop 39 finished.
+Thu Jan  1 00:52:58 1970: Getting first jpeg.
+Thu Jan  1 00:52:59 1970: First jpeg received. Size: 68076
+Thu Jan  1 00:52:59 1970: Getting second jpeg.
+Thu Jan  1 00:52:59 1970: Second jpeg received. Size: 71259
+Thu Jan  1 00:52:59 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:00 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:00 1970: EE: No targets found.
+Thu Jan  1 00:53:00 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:00 1970: Loop 40 finished.
+Thu Jan  1 00:53:00 1970: Getting first jpeg.
+Thu Jan  1 00:53:00 1970: First jpeg received. Size: 67980
+Thu Jan  1 00:53:01 1970: Getting second jpeg.
+Thu Jan  1 00:53:01 1970: Second jpeg received. Size: 71328
+Thu Jan  1 00:53:01 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:02 1970: EE: No targets found.
+Thu Jan  1 00:53:02 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:03 1970: Image built. Writing to file: /media/card/img/TEST4-3183.jpg
+Thu Jan  1 00:53:03 1970: Loop 41 finished.
+Thu Jan  1 00:53:03 1970: Getting first jpeg.
+Thu Jan  1 00:53:04 1970: First jpeg received. Size: 68201
+Thu Jan  1 00:53:04 1970: Getting second jpeg.
+Thu Jan  1 00:53:04 1970: Second jpeg received. Size: 71414
+Thu Jan  1 00:53:04 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:05 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:05 1970: EE: No targets found.
+Thu Jan  1 00:53:05 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:06 1970: Image built. Writing to file: /media/card/img/TEST4-3186.jpg
+Thu Jan  1 00:53:06 1970: Loop 42 finished.
+Thu Jan  1 00:53:06 1970: Getting first jpeg.
+Thu Jan  1 00:53:06 1970: First jpeg received. Size: 68268
+Thu Jan  1 00:53:07 1970: Getting second jpeg.
+Thu Jan  1 00:53:07 1970: Second jpeg received. Size: 71350
+Thu Jan  1 00:53:07 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:08 1970: EE: No targets found.
+Thu Jan  1 00:53:08 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:09 1970: Image built. Writing to file: /media/card/img/TEST4-3189.jpg
+Thu Jan  1 00:53:09 1970: Loop 43 finished.
+Thu Jan  1 00:53:09 1970: Getting first jpeg.
+Thu Jan  1 00:53:09 1970: First jpeg received. Size: 68147
+Thu Jan  1 00:53:09 1970: Getting second jpeg.
+Thu Jan  1 00:53:10 1970: Second jpeg received. Size: 71242
+Thu Jan  1 00:53:10 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:10 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:11 1970: EE: No targets found.
+Thu Jan  1 00:53:11 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:11 1970: Loop 44 finished.
+Thu Jan  1 00:53:11 1970: Getting first jpeg.
+Thu Jan  1 00:53:11 1970: First jpeg received. Size: 67976
+Thu Jan  1 00:53:11 1970: Getting second jpeg.
+Thu Jan  1 00:53:11 1970: Second jpeg received. Size: 71125
+Thu Jan  1 00:53:12 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:13 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:13 1970: EE: No targets found.
+Thu Jan  1 00:53:13 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:14 1970: Image built. Writing to file: /media/card/img/TEST4-3194.jpg
+Thu Jan  1 00:53:14 1970: Loop 45 finished.
+Thu Jan  1 00:53:14 1970: Getting first jpeg.
+Thu Jan  1 00:53:15 1970: First jpeg received. Size: 67897
+Thu Jan  1 00:53:15 1970: Getting second jpeg.
+Thu Jan  1 00:53:15 1970: Second jpeg received. Size: 71265
+Thu Jan  1 00:53:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:16 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:16 1970: EE: No targets found.
+Thu Jan  1 00:53:16 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:17 1970: Image built. Writing to file: /media/card/img/TEST4-3197.jpg
+Thu Jan  1 00:53:17 1970: Loop 46 finished.
+Thu Jan  1 00:53:17 1970: Getting first jpeg.
+Thu Jan  1 00:53:17 1970: First jpeg received. Size: 68307
+Thu Jan  1 00:53:18 1970: Getting second jpeg.
+Thu Jan  1 00:53:18 1970: Second jpeg received. Size: 71421
+Thu Jan  1 00:53:18 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:19 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:19 1970: EE: No targets found.
+Thu Jan  1 00:53:19 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:19 1970: Loop 47 finished.
+Thu Jan  1 00:53:19 1970: Getting first jpeg.
+Thu Jan  1 00:53:19 1970: First jpeg received. Size: 68302
+Thu Jan  1 00:53:19 1970: Getting second jpeg.
+Thu Jan  1 00:53:20 1970: Second jpeg received. Size: 71628
+Thu Jan  1 00:53:20 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:21 1970: EE: No targets found.
+Thu Jan  1 00:53:21 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:21 1970: Image built. Writing to file: /media/card/img/TEST4-3201.jpg
+Thu Jan  1 00:53:22 1970: Loop 48 finished.
+Thu Jan  1 00:53:22 1970: Getting first jpeg.
+Thu Jan  1 00:53:22 1970: First jpeg received. Size: 68352
+Thu Jan  1 00:53:23 1970: Getting second jpeg.
+Thu Jan  1 00:53:23 1970: Second jpeg received. Size: 71471
+Thu Jan  1 00:53:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:24 1970: EE: No targets found.
+Thu Jan  1 00:53:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:24 1970: Loop 49 finished.
+Thu Jan  1 00:53:24 1970: Getting first jpeg.
+Thu Jan  1 00:53:24 1970: First jpeg received. Size: 68310
+Thu Jan  1 00:53:24 1970: Getting second jpeg.
+Thu Jan  1 00:53:25 1970: Second jpeg received. Size: 71266
+Thu Jan  1 00:53:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:26 1970: EE: No targets found.
+Thu Jan  1 00:53:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:26 1970: Loop 50 finished.
+Thu Jan  1 00:53:26 1970: Getting first jpeg.
+Thu Jan  1 00:53:26 1970: First jpeg received. Size: 68165
+Thu Jan  1 00:53:26 1970: Getting second jpeg.
+Thu Jan  1 00:53:26 1970: Second jpeg received. Size: 71414
+Thu Jan  1 00:53:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:28 1970: EE: No targets found.
+Thu Jan  1 00:53:28 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:28 1970: Loop 51 finished.
+Thu Jan  1 00:53:28 1970: Getting first jpeg.
+Thu Jan  1 00:53:28 1970: First jpeg received. Size: 68167
+Thu Jan  1 00:53:28 1970: Getting second jpeg.
+Thu Jan  1 00:53:29 1970: Second jpeg received. Size: 68885
+Thu Jan  1 00:53:29 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:30 1970: EE: No targets found.
+Thu Jan  1 00:53:30 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:30 1970: Image built. Writing to file: /media/card/img/TEST4-3210.jpg
+Thu Jan  1 00:53:31 1970: Loop 52 finished.
+Thu Jan  1 00:53:31 1970: Getting first jpeg.
+Thu Jan  1 00:53:31 1970: First jpeg received. Size: 68011
+Thu Jan  1 00:53:31 1970: Getting second jpeg.
+Thu Jan  1 00:53:32 1970: Second jpeg received. Size: 57243
+Thu Jan  1 00:53:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:33 1970: EE: No targets found.
+Thu Jan  1 00:53:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:33 1970: Loop 53 finished.
+Thu Jan  1 00:53:33 1970: Getting first jpeg.
+Thu Jan  1 00:53:33 1970: First jpeg received. Size: 68315
+Thu Jan  1 00:53:33 1970: Getting second jpeg.
+Thu Jan  1 00:53:34 1970: Second jpeg received. Size: 65749
+Thu Jan  1 00:53:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:34 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:35 1970: EE: No targets found.
+Thu Jan  1 00:53:35 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:35 1970: Loop 54 finished.
+Thu Jan  1 00:53:35 1970: Getting first jpeg.
+Thu Jan  1 00:53:35 1970: First jpeg received. Size: 68212
+Thu Jan  1 00:53:35 1970: Getting second jpeg.
+Thu Jan  1 00:53:35 1970: Second jpeg received. Size: 56817
+Thu Jan  1 00:53:36 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:37 1970: EE: No targets found.
+Thu Jan  1 00:53:37 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:38 1970: Image built. Writing to file: /media/card/img/TEST4-3218.jpg
+Thu Jan  1 00:53:38 1970: Loop 55 finished.
+Thu Jan  1 00:53:38 1970: Getting first jpeg.
+Thu Jan  1 00:53:38 1970: First jpeg received. Size: 67133
+Thu Jan  1 00:53:38 1970: Getting second jpeg.
+Thu Jan  1 00:53:39 1970: Second jpeg received. Size: 51985
+Thu Jan  1 00:53:39 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:39 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:40 1970: EE: No targets found.
+Thu Jan  1 00:53:40 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:40 1970: Loop 56 finished.
+Thu Jan  1 00:53:40 1970: Getting first jpeg.
+Thu Jan  1 00:53:40 1970: First jpeg received. Size: 56483
+Thu Jan  1 00:53:40 1970: Getting second jpeg.
+Thu Jan  1 00:53:40 1970: Second jpeg received. Size: 68993
+Thu Jan  1 00:53:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:42 1970: EE: No targets found.
+Thu Jan  1 00:53:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:42 1970: Loop 57 finished.
+Thu Jan  1 00:53:42 1970: Getting first jpeg.
+Thu Jan  1 00:53:42 1970: First jpeg received. Size: 43460
+Thu Jan  1 00:53:42 1970: Getting second jpeg.
+Thu Jan  1 00:53:42 1970: Second jpeg received. Size: 69521
+Thu Jan  1 00:53:43 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:44 1970: EE: No targets found.
+Thu Jan  1 00:53:44 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:44 1970: Loop 58 finished.
+Thu Jan  1 00:53:44 1970: Getting first jpeg.
+Thu Jan  1 00:53:44 1970: First jpeg received. Size: 41491
+Thu Jan  1 00:53:44 1970: Getting second jpeg.
+Thu Jan  1 00:53:45 1970: Second jpeg received. Size: 69982
+Thu Jan  1 00:53:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:45 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:46 1970: EE: No targets found.
+Thu Jan  1 00:53:46 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:46 1970: Image built. Writing to file: /media/card/img/TEST4-3226.jpg
+Thu Jan  1 00:53:47 1970: Loop 59 finished.
+Thu Jan  1 00:53:47 1970: Getting first jpeg.
+Thu Jan  1 00:53:47 1970: First jpeg received. Size: 43086
+Thu Jan  1 00:53:47 1970: Getting second jpeg.
+Thu Jan  1 00:53:48 1970: Second jpeg received. Size: 71270
+Thu Jan  1 00:53:48 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:49 1970: EE: No targets found.
+Thu Jan  1 00:53:49 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:49 1970: Loop 60 finished.
+Thu Jan  1 00:53:49 1970: Getting first jpeg.
+Thu Jan  1 00:53:49 1970: First jpeg received. Size: 43052
+Thu Jan  1 00:53:49 1970: Getting second jpeg.
+Thu Jan  1 00:53:49 1970: Second jpeg received. Size: 70949
+Thu Jan  1 00:53:50 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:50 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:51 1970: EE: No targets found.
+Thu Jan  1 00:53:51 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:51 1970: Image built. Writing to file: /media/card/img/TEST4-3231.jpg
+Thu Jan  1 00:53:52 1970: Loop 61 finished.
+Thu Jan  1 00:53:52 1970: Getting first jpeg.
+Thu Jan  1 00:53:52 1970: First jpeg received. Size: 45475
+Thu Jan  1 00:53:52 1970: Getting second jpeg.
+Thu Jan  1 00:53:53 1970: Second jpeg received. Size: 70166
+Thu Jan  1 00:53:53 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:53 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:54 1970: EE: No targets found.
+Thu Jan  1 00:53:54 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:54 1970: Loop 62 finished.
+Thu Jan  1 00:53:54 1970: Getting first jpeg.
+Thu Jan  1 00:53:54 1970: First jpeg received. Size: 43871
+Thu Jan  1 00:53:54 1970: Getting second jpeg.
+Thu Jan  1 00:53:55 1970: Second jpeg received. Size: 70879
+Thu Jan  1 00:53:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:55 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:56 1970: EE: No targets found.
+Thu Jan  1 00:53:56 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:53:56 1970: Image built. Writing to file: /media/card/img/TEST4-3236.jpg
+Thu Jan  1 00:53:57 1970: Loop 63 finished.
+Thu Jan  1 00:53:57 1970: Getting first jpeg.
+Thu Jan  1 00:53:57 1970: First jpeg received. Size: 39932
+Thu Jan  1 00:53:57 1970: Getting second jpeg.
+Thu Jan  1 00:53:58 1970: Second jpeg received. Size: 70797
+Thu Jan  1 00:53:58 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:53:58 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:53:59 1970: EE: No targets found.
+Thu Jan  1 00:53:59 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:53:59 1970: Loop 64 finished.
+Thu Jan  1 00:53:59 1970: Getting first jpeg.
+Thu Jan  1 00:53:59 1970: First jpeg received. Size: 67953
+Thu Jan  1 00:53:59 1970: Getting second jpeg.
+Thu Jan  1 00:53:59 1970: Second jpeg received. Size: 71107
+Thu Jan  1 00:54:00 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:00 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:01 1970: EE: No targets found.
+Thu Jan  1 00:54:01 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:01 1970: Image built. Writing to file: /media/card/img/TEST4-3241.jpg
+Thu Jan  1 00:54:02 1970: Loop 65 finished.
+Thu Jan  1 00:54:02 1970: Getting first jpeg.
+Thu Jan  1 00:54:02 1970: First jpeg received. Size: 67817
+Thu Jan  1 00:54:02 1970: Getting second jpeg.
+Thu Jan  1 00:54:02 1970: Second jpeg received. Size: 67102
+Thu Jan  1 00:54:03 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:03 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:04 1970: EE: No targets found.
+Thu Jan  1 00:54:04 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:04 1970: Image built. Writing to file: /media/card/img/TEST4-3244.jpg
+Thu Jan  1 00:54:05 1970: Loop 66 finished.
+Thu Jan  1 00:54:05 1970: Getting first jpeg.
+Thu Jan  1 00:54:05 1970: First jpeg received. Size: 68011
+Thu Jan  1 00:54:05 1970: Getting second jpeg.
+Thu Jan  1 00:54:05 1970: Second jpeg received. Size: 60554
+Thu Jan  1 00:54:06 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:06 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:07 1970: EE: No targets found.
+Thu Jan  1 00:54:07 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:07 1970: Image built. Writing to file: /media/card/img/TEST4-3247.jpg
+Thu Jan  1 00:54:08 1970: Loop 67 finished.
+Thu Jan  1 00:54:08 1970: Getting first jpeg.
+Thu Jan  1 00:54:08 1970: First jpeg received. Size: 68148
+Thu Jan  1 00:54:08 1970: Getting second jpeg.
+Thu Jan  1 00:54:08 1970: Second jpeg received. Size: 67914
+Thu Jan  1 00:54:08 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:09 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:10 1970: EE: No targets found.
+Thu Jan  1 00:54:10 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:10 1970: Image built. Writing to file: /media/card/img/TEST4-3250.jpg
+Thu Jan  1 00:54:11 1970: Loop 68 finished.
+Thu Jan  1 00:54:11 1970: Getting first jpeg.
+Thu Jan  1 00:54:11 1970: First jpeg received. Size: 68313
+Thu Jan  1 00:54:11 1970: Getting second jpeg.
+Thu Jan  1 00:54:11 1970: Second jpeg received. Size: 68194
+Thu Jan  1 00:54:11 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:12 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:13 1970: EE: No targets found.
+Thu Jan  1 00:54:13 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:13 1970: Loop 69 finished.
+Thu Jan  1 00:54:13 1970: Getting first jpeg.
+Thu Jan  1 00:54:13 1970: First jpeg received. Size: 68027
+Thu Jan  1 00:54:13 1970: Getting second jpeg.
+Thu Jan  1 00:54:13 1970: Second jpeg received. Size: 69613
+Thu Jan  1 00:54:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:14 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:15 1970: EE: No targets found.
+Thu Jan  1 00:54:15 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:15 1970: Image built. Writing to file: /media/card/img/TEST4-3255.jpg
+Thu Jan  1 00:54:16 1970: Loop 70 finished.
+Thu Jan  1 00:54:16 1970: Getting first jpeg.
+Thu Jan  1 00:54:16 1970: First jpeg received. Size: 68308
+Thu Jan  1 00:54:16 1970: Getting second jpeg.
+Thu Jan  1 00:54:16 1970: Second jpeg received. Size: 70909
+Thu Jan  1 00:54:16 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:17 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:18 1970: EE: No targets found.
+Thu Jan  1 00:54:18 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:18 1970: Image built. Writing to file: /media/card/img/TEST4-3258.jpg
+Thu Jan  1 00:54:19 1970: Loop 71 finished.
+Thu Jan  1 00:54:19 1970: Getting first jpeg.
+Thu Jan  1 00:54:19 1970: First jpeg received. Size: 68349
+Thu Jan  1 00:54:19 1970: Getting second jpeg.
+Thu Jan  1 00:54:19 1970: Second jpeg received. Size: 71017
+Thu Jan  1 00:54:20 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:21 1970: EE: No targets found.
+Thu Jan  1 00:54:21 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:21 1970: Image built. Writing to file: /media/card/img/TEST4-3261.jpg
+Thu Jan  1 00:54:22 1970: Loop 72 finished.
+Thu Jan  1 00:54:22 1970: Getting first jpeg.
+Thu Jan  1 00:54:22 1970: First jpeg received. Size: 68055
+Thu Jan  1 00:54:22 1970: Getting second jpeg.
+Thu Jan  1 00:54:22 1970: Second jpeg received. Size: 70947
+Thu Jan  1 00:54:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:24 1970: EE: No targets found.
+Thu Jan  1 00:54:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:24 1970: Loop 73 finished.
+Thu Jan  1 00:54:24 1970: Getting first jpeg.
+Thu Jan  1 00:54:24 1970: First jpeg received. Size: 68158
+Thu Jan  1 00:54:24 1970: Getting second jpeg.
+Thu Jan  1 00:54:24 1970: Second jpeg received. Size: 71096
+Thu Jan  1 00:54:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:26 1970: EE: No targets found.
+Thu Jan  1 00:54:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:26 1970: Loop 74 finished.
+Thu Jan  1 00:54:26 1970: Getting first jpeg.
+Thu Jan  1 00:54:26 1970: First jpeg received. Size: 68090
+Thu Jan  1 00:54:26 1970: Getting second jpeg.
+Thu Jan  1 00:54:26 1970: Second jpeg received. Size: 70989
+Thu Jan  1 00:54:26 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:28 1970: EE: No targets found.
+Thu Jan  1 00:54:28 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:28 1970: Loop 75 finished.
+Thu Jan  1 00:54:28 1970: Getting first jpeg.
+Thu Jan  1 00:54:28 1970: First jpeg received. Size: 68176
+Thu Jan  1 00:54:28 1970: Getting second jpeg.
+Thu Jan  1 00:54:28 1970: Second jpeg received. Size: 71013
+Thu Jan  1 00:54:28 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:30 1970: EE: No targets found.
+Thu Jan  1 00:54:30 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:30 1970: Loop 76 finished.
+Thu Jan  1 00:54:30 1970: Getting first jpeg.
+Thu Jan  1 00:54:30 1970: First jpeg received. Size: 68357
+Thu Jan  1 00:54:30 1970: Getting second jpeg.
+Thu Jan  1 00:54:30 1970: Second jpeg received. Size: 71250
+Thu Jan  1 00:54:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:31 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:31 1970: EE: No targets found.
+Thu Jan  1 00:54:31 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:31 1970: Loop 77 finished.
+Thu Jan  1 00:54:31 1970: Getting first jpeg.
+Thu Jan  1 00:54:32 1970: First jpeg received. Size: 68228
+Thu Jan  1 00:54:32 1970: Getting second jpeg.
+Thu Jan  1 00:54:32 1970: Second jpeg received. Size: 71283
+Thu Jan  1 00:54:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:33 1970: EE: No targets found.
+Thu Jan  1 00:54:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:54:33 1970: Loop 78 finished.
+Thu Jan  1 00:54:33 1970: Getting first jpeg.
+Thu Jan  1 00:54:34 1970: First jpeg received. Size: 68281
+Thu Jan  1 00:54:34 1970: Getting second jpeg.
+Thu Jan  1 00:54:34 1970: Second jpeg received. Size: 71132
+Thu Jan  1 00:54:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:35 1970: EE: No targets found.
+Thu Jan  1 00:54:35 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:36 1970: Image built. Writing to file: /media/card/img/TEST4-3276.jpg
+Thu Jan  1 00:54:37 1970: Loop 79 finished.
+Thu Jan  1 00:54:37 1970: Getting first jpeg.
+Thu Jan  1 00:54:37 1970: First jpeg received. Size: 68371
+Thu Jan  1 00:54:37 1970: Getting second jpeg.
+Thu Jan  1 00:54:37 1970: Second jpeg received. Size: 70803
+Thu Jan  1 00:54:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:39 1970: EE: No targets found.
+Thu Jan  1 00:54:39 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:39 1970: Image built. Writing to file: /media/card/img/TEST4-3279.jpg
+Thu Jan  1 00:54:40 1970: Loop 80 finished.
+Thu Jan  1 00:54:40 1970: Getting first jpeg.
+Thu Jan  1 00:54:40 1970: First jpeg received. Size: 68188
+Thu Jan  1 00:54:40 1970: Getting second jpeg.
+Thu Jan  1 00:54:40 1970: Second jpeg received. Size: 71121
+Thu Jan  1 00:54:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:42 1970: EE: No targets found.
+Thu Jan  1 00:54:42 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:42 1970: Image built. Writing to file: /media/card/img/TEST4-3282.jpg
+Thu Jan  1 00:54:43 1970: Loop 81 finished.
+Thu Jan  1 00:54:43 1970: Getting first jpeg.
+Thu Jan  1 00:54:43 1970: First jpeg received. Size: 68202
+Thu Jan  1 00:54:43 1970: Getting second jpeg.
+Thu Jan  1 00:54:44 1970: Second jpeg received. Size: 69808
+Thu Jan  1 00:54:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:54:44 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:54:45 1970: EE: No targets found.
+Thu Jan  1 00:54:45 1970: Blob detection completed.  Building image.
+Thu Jan  1 00:54:45 1970: Image built. Writing to file: /media/card/img/TEST4-3285.jpg
+Thu Jan  1 00:54:46 1970: Loop 82 finished.
+Thu Jan  1 00:54:46 1970: Getting first jpeg.
+Thu Jan  1 00:54:46 1970: First jpeg received. Size: 68349
+Thu Jan  1 00:54:46 1970: GettiThu Jan  1 00:01:12 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:01:12 1970: Got tolerance values from /media/card/img/colors.tol.
+Thu Jan  1 00:01:12 1970: Seeking blue targets.
+Thu Jan  1 00:01:12 1970: Beginning main loop.
+Thu Jan  1 00:01:12 1970: Getting first jpeg.
+Thu Jan  1 00:01:13 1970: First jpeg received. Size: 54719
+Thu Jan  1 00:01:13 1970: Getting second jpeg.
+Thu Jan  1 00:01:13 1970: Second jpeg received. Size: 43907
+Thu Jan  1 00:01:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:14 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:14 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:14 1970: Sending left motor command.
+Thu Jan  1 00:01:14 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:14 1970: Loop 0 finished.
+Thu Jan  1 00:01:15 1970: Getting first jpeg.
+Thu Jan  1 00:01:15 1970: First jpeg received. Size: 54702
+Thu Jan  1 00:01:15 1970: Getting second jpeg.
+Thu Jan  1 00:01:15 1970: Second jpeg received. Size: 43989
+Thu Jan  1 00:01:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:16 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:16 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:16 1970: Sending left motor command.
+Thu Jan  1 00:01:16 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:16 1970: Loop 1 finished.
+Thu Jan  1 00:01:16 1970: Getting first jpeg.
+Thu Jan  1 00:01:17 1970: First jpeg received. Size: 54714
+Thu Jan  1 00:01:17 1970: Getting second jpeg.
+Thu Jan  1 00:01:17 1970: Second jpeg received. Size: 43931
+Thu Jan  1 00:01:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:18 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:18 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:18 1970: Sending left motor command.
+Thu Jan  1 00:01:18 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:18 1970: Loop 2 finished.
+Thu Jan  1 00:01:18 1970: Getting first jpeg.
+Thu Jan  1 00:01:19 1970: First jpeg received. Size: 54812
+Thu Jan  1 00:01:19 1970: Getting second jpeg.
+Thu Jan  1 00:01:19 1970: Second jpeg received. Size: 43912
+Thu Jan  1 00:01:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:20 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:20 1970: Sending left motor command.
+Thu Jan  1 00:01:20 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:20 1970: Loop 3 finished.
+Thu Jan  1 00:01:20 1970: Getting first jpeg.
+Thu Jan  1 00:01:20 1970: First jpeg received. Size: 54605
+Thu Jan  1 00:01:21 1970: Getting second jpeg.
+Thu Jan  1 00:01:21 1970: Second jpeg received. Size: 43980
+Thu Jan  1 00:01:21 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:22 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:22 1970: Sending left motor command.
+Thu Jan  1 00:01:22 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:22 1970: Loop 4 finished.
+Thu Jan  1 00:01:22 1970: Getting first jpeg.
+Thu Jan  1 00:01:22 1970: First jpeg received. Size: 54723
+Thu Jan  1 00:01:22 1970: Getting second jpeg.
+Thu Jan  1 00:01:23 1970: Second jpeg received. Size: 43936
+Thu Jan  1 00:01:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:24 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:24 1970: Sending left motor command.
+Thu Jan  1 00:01:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:24 1970: Loop 5 finished.
+Thu Jan  1 00:01:24 1970: Getting first jpeg.
+Thu Jan  1 00:01:24 1970: First jpeg received. Size: 54585
+Thu Jan  1 00:01:25 1970: Getting second jpeg.
+Thu Jan  1 00:01:25 1970: Second jpeg received. Size: 43828
+Thu Jan  1 00:01:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:26 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:26 1970: Sending left motor command.
+Thu Jan  1 00:01:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:26 1970: Loop 6 finished.
+Thu Jan  1 00:01:26 1970: Getting first jpeg.
+Thu Jan  1 00:01:27 1970: First jpeg received. Size: 54408
+Thu Jan  1 00:01:27 1970: Getting second jpeg.
+Thu Jan  1 00:01:27 1970: Second jpeg received. Size: 43708
+Thu Jan  1 00:01:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:28 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:28 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:28 1970: Sending left motor command.
+Thu Jan  1 00:01:28 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:28 1970: Loop 7 finished.
+Thu Jan  1 00:01:28 1970: Getting first jpeg.
+Thu Jan  1 00:01:28 1970: First jpeg received. Size: 54570
+Thu Jan  1 00:01:29 1970: Getting second jpeg.
+Thu Jan  1 00:01:29 1970: Second jpeg received. Size: 43783
+Thu Jan  1 00:01:29 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:30 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:30 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:30 1970: Sending left motor command.
+Thu Jan  1 00:01:30 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:30 1970: Loop 8 finished.
+Thu Jan  1 00:01:30 1970: Getting first jpeg.
+Thu Jan  1 00:01:31 1970: First jpeg received. Size: 54636
+Thu Jan  1 00:01:31 1970: Getting second jpeg.
+Thu Jan  1 00:01:31 1970: Second jpeg received. Size: 43860
+Thu Jan  1 00:01:31 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:32 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:32 1970: Sending left motor command.
+Thu Jan  1 00:01:32 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:32 1970: Loop 9 finished.
+Thu Jan  1 00:01:32 1970: Getting first jpeg.
+Thu Jan  1 00:01:33 1970: First jpeg received. Size: 54611
+Thu Jan  1 00:01:33 1970: Getting second jpeg.
+Thu Jan  1 00:01:33 1970: Second jpeg received. Size: 44002
+Thu Jan  1 00:01:33 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:34 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:34 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:34 1970: Sending left motor command.
+Thu Jan  1 00:01:34 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:34 1970: Loop 10 finished.
+Thu Jan  1 00:01:34 1970: Getting first jpeg.
+Thu Jan  1 00:01:35 1970: First jpeg received. Size: 54649
+Thu Jan  1 00:01:35 1970: Getting second jpeg.
+Thu Jan  1 00:01:35 1970: Second jpeg received. Size: 43842
+Thu Jan  1 00:01:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:36 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:36 1970: Sending left motor command.
+Thu Jan  1 00:01:37 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:37 1970: Loop 11 finished.
+Thu Jan  1 00:01:37 1970: Getting first jpeg.
+Thu Jan  1 00:01:37 1970: First jpeg received. Size: 54661
+Thu Jan  1 00:01:37 1970: Getting second jpeg.
+Thu Jan  1 00:01:37 1970: Second jpeg received. Size: 43906
+Thu Jan  1 00:01:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:38 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:38 1970: Sending left motor command.
+Thu Jan  1 00:01:38 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:38 1970: Loop 12 finished.
+Thu Jan  1 00:01:38 1970: Getting first jpeg.
+Thu Jan  1 00:01:39 1970: First jpeg received. Size: 54622
+Thu Jan  1 00:01:39 1970: Getting second jpeg.
+Thu Jan  1 00:01:39 1970: Second jpeg received. Size: 43995
+Thu Jan  1 00:01:39 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:40 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:40 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:40 1970: Sending left motor command.
+Thu Jan  1 00:01:40 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:40 1970: Loop 13 finished.
+Thu Jan  1 00:01:40 1970: Getting first jpeg.
+Thu Jan  1 00:01:41 1970: First jpeg received. Size: 54667
+Thu Jan  1 00:01:41 1970: Getting second jpeg.
+Thu Jan  1 00:01:41 1970: Second jpeg received. Size: 43958
+Thu Jan  1 00:01:41 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:42 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:42 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:42 1970: Sending left motor command.
+Thu Jan  1 00:01:42 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:42 1970: Loop 14 finished.
+Thu Jan  1 00:01:42 1970: Getting first jpeg.
+Thu Jan  1 00:01:43 1970: First jpeg received. Size: 54592
+Thu Jan  1 00:01:43 1970: Getting second jpeg.
+Thu Jan  1 00:01:43 1970: Second jpeg received. Size: 43904
+Thu Jan  1 00:01:43 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:44 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:44 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:44 1970: Sending left motor command.
+Thu Jan  1 00:01:44 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:44 1970: Loop 15 finished.
+Thu Jan  1 00:01:44 1970: Getting first jpeg.
+Thu Jan  1 00:01:45 1970: First jpeg received. Size: 54648
+Thu Jan  1 00:01:45 1970: Getting second jpeg.
+Thu Jan  1 00:01:45 1970: Second jpeg received. Size: 43913
+Thu Jan  1 00:01:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:46 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:46 1970: Sending left motor command.
+Thu Jan  1 00:01:46 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:46 1970: Loop 16 finished.
+Thu Jan  1 00:01:46 1970: Getting first jpeg.
+Thu Jan  1 00:01:47 1970: First jpeg received. Size: 54657
+Thu Jan  1 00:01:47 1970: Getting second jpeg.
+Thu Jan  1 00:01:47 1970: Second jpeg received. Size: 43899
+Thu Jan  1 00:01:47 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:48 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:48 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:48 1970: Sending left motor command.
+Thu Jan  1 00:01:48 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:48 1970: Loop 17 finished.
+Thu Jan  1 00:01:49 1970: Getting first jpeg.
+Thu Jan  1 00:01:49 1970: First jpeg received. Size: 54623
+Thu Jan  1 00:01:49 1970: Getting second jpeg.
+Thu Jan  1 00:01:49 1970: Second jpeg received. Size: 43847
+Thu Jan  1 00:01:49 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:50 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:51 1970: Found a blue target. Center: (301, 254).
+
+Thu Jan  1 00:01:51 1970: Sending left motor command.
+Thu Jan  1 00:01:51 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:51 1970: Loop 18 finished.
+Thu Jan  1 00:01:51 1970: Getting first jpeg.
+Thu Jan  1 00:01:51 1970: First jpeg received. Size: 54709
+Thu Jan  1 00:01:51 1970: Getting second jpeg.
+Thu Jan  1 00:01:51 1970: Second jpeg received. Size: 43857
+Thu Jan  1 00:01:51 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:52 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:52 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:52 1970: Sending left motor command.
+Thu Jan  1 00:01:52 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:52 1970: Loop 19 finished.
+Thu Jan  1 00:01:52 1970: Getting first jpeg.
+Thu Jan  1 00:01:53 1970: First jpeg received. Size: 54572
+Thu Jan  1 00:01:53 1970: Getting second jpeg.
+Thu Jan  1 00:01:53 1970: Second jpeg received. Size: 43848
+Thu Jan  1 00:01:53 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:54 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:54 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:54 1970: Sending left motor command.
+Thu Jan  1 00:01:54 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:54 1970: Loop 20 finished.
+Thu Jan  1 00:01:54 1970: Getting first jpeg.
+Thu Jan  1 00:01:55 1970: First jpeg received. Size: 54635
+Thu Jan  1 00:01:55 1970: Getting second jpeg.
+Thu Jan  1 00:01:55 1970: Second jpeg received. Size: 43979
+Thu Jan  1 00:01:55 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:56 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:56 1970: Found a blue target. Center: (301, 256).
+
+Thu Jan  1 00:01:56 1970: Sending left motor command.
+Thu Jan  1 00:01:56 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:56 1970: Loop 21 finished.
+Thu Jan  1 00:01:56 1970: Getting first jpeg.
+Thu Jan  1 00:01:56 1970: First jpeg received. Size: 54640
+Thu Jan  1 00:01:57 1970: Getting second jpeg.
+Thu Jan  1 00:01:57 1970: Second jpeg received. Size: 43900
+Thu Jan  1 00:01:57 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:58 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:58 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:01:58 1970: Sending left motor command.
+Thu Jan  1 00:01:58 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:58 1970: Loop 22 finished.
+Thu Jan  1 00:01:58 1970: Getting first jpeg.
+Thu Jan  1 00:01:59 1970: First jpeg received. Size: 54621
+Thu Jan  1 00:01:59 1970: Getting second jpeg.
+Thu Jan  1 00:01:59 1970: Second jpeg received. Size: 43863
+Thu Jan  1 00:01:59 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:00 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:00 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:00 1970: Sending left motor command.
+Thu Jan  1 00:02:00 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:00 1970: Loop 23 finished.
+Thu Jan  1 00:02:00 1970: Getting first jpeg.
+Thu Jan  1 00:02:00 1970: First jpeg received. Size: 54703
+Thu Jan  1 00:02:01 1970: Getting second jpeg.
+Thu Jan  1 00:02:01 1970: Second jpeg received. Size: 43852
+Thu Jan  1 00:02:01 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:02 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:02 1970: Sending left motor command.
+Thu Jan  1 00:02:02 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:02 1970: Loop 24 finished.
+Thu Jan  1 00:02:02 1970: Getting first jpeg.
+Thu Jan  1 00:02:02 1970: First jpeg received. Size: 54700
+Thu Jan  1 00:02:02 1970: Getting second jpeg.
+Thu Jan  1 00:02:03 1970: Second jpeg received. Size: 43854
+Thu Jan  1 00:02:03 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:03 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:04 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:04 1970: Sending left motor command.
+Thu Jan  1 00:02:04 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:04 1970: Loop 25 finished.
+Thu Jan  1 00:02:04 1970: Getting first jpeg.
+Thu Jan  1 00:02:04 1970: First jpeg received. Size: 54722
+Thu Jan  1 00:02:05 1970: Getting second jpeg.
+Thu Jan  1 00:02:05 1970: Second jpeg received. Size: 43820
+Thu Jan  1 00:02:05 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:06 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:06 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:06 1970: Sending left motor command.
+Thu Jan  1 00:02:06 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:06 1970: Loop 26 finished.
+Thu Jan  1 00:02:06 1970: Getting first jpeg.
+Thu Jan  1 00:02:06 1970: First jpeg received. Size: 54758
+Thu Jan  1 00:02:07 1970: Getting second jpeg.
+Thu Jan  1 00:02:07 1970: Second jpeg received. Size: 43828
+Thu Jan  1 00:02:07 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:08 1970: Found a blue target. Center: (301, 254).
+
+Thu Jan  1 00:02:08 1970: Sending left motor command.
+Thu Jan  1 00:02:08 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:08 1970: Loop 27 finished.
+Thu Jan  1 00:02:08 1970: Getting first jpeg.
+Thu Jan  1 00:02:08 1970: First jpeg received. Size: 54639
+Thu Jan  1 00:02:08 1970: Getting second jpeg.
+Thu Jan  1 00:02:09 1970: Second jpeg received. Size: 43810
+Thu Jan  1 00:02:09 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:09 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:10 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:10 1970: Sending left motor command.
+Thu Jan  1 00:02:10 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:10 1970: Loop 28 finished.
+Thu Jan  1 00:02:10 1970: Getting first jpeg.
+Thu Jan  1 00:02:10 1970: First jpeg received. Size: 54634
+Thu Jan  1 00:02:10 1970: Getting second jpeg.
+Thu Jan  1 00:02:11 1970: Second jpeg received. Size: 43806
+Thu Jan  1 00:02:11 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:11 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:12 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:12 1970: Sending left motor command.
+Thu Jan  1 00:02:12 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:12 1970: Loop 29 finished.
+Thu Jan  1 00:02:12 1970: Getting first jpeg.
+Thu Jan  1 00:02:12 1970: First jpeg received. Size: 54587
+Thu Jan  1 00:02:12 1970: Getting second jpeg.
+Thu Jan  1 00:02:12 1970: Second jpeg received. Size: 43882
+Thu Jan  1 00:02:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:13 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:14 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:14 1970: Sending left motor command.
+Thu Jan  1 00:02:14 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:14 1970: Loop 30 finished.
+Thu Jan  1 00:02:14 1970: Getting first jpeg.
+Thu Jan  1 00:02:14 1970: First jpeg received. Size: 54653
+Thu Jan  1 00:02:14 1970: Getting second jpeg.
+Thu Jan  1 00:02:15 1970: Second jpeg received. Size: 43928
+Thu Jan  1 00:02:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:15 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:16 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:16 1970: Sending left motor command.
+Thu Jan  1 00:02:16 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:16 1970: Loop 31 finished.
+Thu Jan  1 00:02:16 1970: Getting first jpeg.
+Thu Jan  1 00:02:16 1970: First jpeg received. Size: 54688
+Thu Jan  1 00:02:17 1970: Getting second jpeg.
+Thu Jan  1 00:02:17 1970: Second jpeg received. Size: 43883
+Thu Jan  1 00:02:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:18 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:18 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:18 1970: Sending left motor command.
+Thu Jan  1 00:02:18 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:18 1970: Loop 32 finished.
+Thu Jan  1 00:02:18 1970: Getting first jpeg.
+Thu Jan  1 00:02:19 1970: First jpeg received. Size: 54576
+Thu Jan  1 00:02:19 1970: Getting second jpeg.
+Thu Jan  1 00:02:19 1970: Second jpeg received. Size: 43837
+Thu Jan  1 00:02:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:20 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:20 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:20 1970: Sending left motor command.
+Thu Jan  1 00:02:21 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:21 1970: Loop 33 finished.
+Thu Jan  1 00:02:21 1970: Getting first jpeg.
+Thu Jan  1 00:02:21 1970: First jpeg received. Size: 54572
+Thu Jan  1 00:02:21 1970: Getting second jpeg.
+Thu Jan  1 00:02:21 1970: Second jpeg received. Size: 43897
+Thu Jan  1 00:02:21 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:23 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:23 1970: Sending left motor command.
+Thu Jan  1 00:02:23 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:23 1970: Loop 34 finished.
+Thu Jan  1 00:02:23 1970: Getting first jpeg.
+Thu Jan  1 00:02:23 1970: First jpeg received. Size: 54620
+Thu Jan  1 00:02:23 1970: Getting second jpeg.
+Thu Jan  1 00:02:23 1970: Second jpeg received. Size: 43925
+Thu Jan  1 00:02:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:24 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:24 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:24 1970: Sending left motor command.
+Thu Jan  1 00:02:25 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:25 1970: Loop 35 finished.
+Thu Jan  1 00:02:25 1970: Getting first jpeg.
+Thu Jan  1 00:02:25 1970: First jpeg received. Size: 54718
+Thu Jan  1 00:02:25 1970: Getting second jpeg.
+Thu Jan  1 00:02:25 1970: Second jpeg received. Size: 43987
+Thu Jan  1 00:02:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:26 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:26 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:26 1970: Sending left motor command.
+Thu Jan  1 00:02:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:26 1970: Loop 36 finished.
+Thu Jan  1 00:02:26 1970: Getting first jpeg.
+Thu Jan  1 00:02:27 1970: First jpeg received. Size: 54674
+Thu Jan  1 00:02:27 1970: Getting second jpeg.
+Thu Jan  1 00:02:27 1970: Second jpeg received. Size: 43923
+Thu Jan  1 00:02:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:28 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:29 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:29 1970: Sending left motor command.
+Thu Jan  1 00:02:29 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:29 1970: Loop 37 finished.
+Thu Jan  1 00:02:29 1970: Getting first jpeg.
+Thu Jan  1 00:02:29 1970: First jpeg received. Size: 54702
+Thu Jan  1 00:02:29 1970: Getting second jpeg.
+Thu Jan  1 00:02:29 1970: Second jpeg received. Size: 43938
+Thu Jan  1 00:02:30 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:30 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:31 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:31 1970: Sending left motor command.
+Thu Jan  1 00:02:31 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:31 1970: Loop 38 finished.
+Thu Jan  1 00:02:31 1970: Getting first jpeg.
+Thu Jan  1 00:02:31 1970: First jpeg received. Size: 54636
+Thu Jan  1 00:02:31 1970: Getting second jpeg.
+Thu Jan  1 00:02:31 1970: Second jpeg received. Size: 43905
+Thu Jan  1 00:02:31 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:32 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:33 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:33 1970: Sending left motor command.
+Thu Jan  1 00:02:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:33 1970: Loop 39 finished.
+Thu Jan  1 00:02:33 1970: Getting first jpeg.
+Thu Jan  1 00:02:33 1970: First jpeg received. Size: 54600
+Thu Jan  1 00:02:33 1970: Getting second jpeg.
+Thu Jan  1 00:02:33 1970: Second jpeg received. Size: 43873
+Thu Jan  1 00:02:33 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:34 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:35 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:35 1970: Sending left motor command.
+Thu Jan  1 00:02:35 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:35 1970: Loop 40 finished.
+Thu Jan  1 00:02:35 1970: Getting first jpeg.
+Thu Jan  1 00:02:35 1970: First jpeg received. Size: 54763
+Thu Jan  1 00:02:35 1970: Getting second jpeg.
+Thu Jan  1 00:02:35 1970: Second jpeg received. Size: 43974
+Thu Jan  1 00:02:35 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:36 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:37 1970: Found a blue target. Center: (301, 254).
+
+Thu Jan  1 00:02:37 1970: Sending left motor command.
+Thu Jan  1 00:02:37 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:37 1970: Loop 41 finished.
+Thu Jan  1 00:02:37 1970: Getting first jpeg.
+Thu Jan  1 00:02:37 1970: First jpeg received. Size: 54821
+Thu Jan  1 00:02:37 1970: Getting second jpeg.
+Thu Jan  1 00:02:37 1970: Second jpeg received. Size: 43853
+Thu Jan  1 00:02:37 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:38 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:39 1970: Found a blue target. Center: (301, 255).
+
+Thu Jan  1 00:02:39 1970: Sending left motor command.
+Thu Jan  1 00:02:39 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:39 1970: Loop 42 finished.
+Thu Jan  1 00:02:39 1970: Getting first jpeg.
+Thu Jan  1 00:02:39 1970: First jpeg received. Size: 54646
+Thu Jan  1 00:02:39 1970: Getting second jpeg.
+Thu Jan  1 00:02:40 1970: Second jpeg received. Size: 43907
+Thu Jan  1 00:02:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:40 1970: Thu Jan  1 00:00:44 1970: Log File '/media/card/img/blob.log' Opened.  Blob v1.0
+Thu Jan  1 00:00:44 1970: Got tolerance values from /media/card/img/colors.tol.
+Thu Jan  1 00:00:44 1970: Seeking red targets.
+Thu Jan  1 00:00:44 1970: Beginning main loop.
+Thu Jan  1 00:00:45 1970: Getting first jpeg.
+Thu Jan  1 00:00:45 1970: First jpeg received. Size: 69150
+Thu Jan  1 00:00:45 1970: Getting second jpeg.
+Thu Jan  1 00:00:45 1970: Second jpeg received. Size: 68674
+Thu Jan  1 00:00:45 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:00:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:00:47 1970: EE: No targets found.
+Thu Jan  1 00:00:47 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:00:47 1970: Loop 0 finished.
+Thu Jan  1 00:00:47 1970: Getting first jpeg.
+Thu Jan  1 00:01:32 1970: First jpeg received. Size: 72034
+Thu Jan  1 00:01:32 1970: Getting second jpeg.
+Thu Jan  1 00:01:32 1970: Second jpeg received. Size: 74811
+Thu Jan  1 00:01:32 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:33 1970: EE: No targets found.
+Thu Jan  1 00:01:33 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:33 1970: Loop 1 finished.
+Thu Jan  1 00:01:33 1970: Getting first jpeg.
+Thu Jan  1 00:01:34 1970: First jpeg received. Size: 72230
+Thu Jan  1 00:01:34 1970: Getting second jpeg.
+Thu Jan  1 00:01:34 1970: Second jpeg received. Size: 74262
+Thu Jan  1 00:01:34 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:35 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:35 1970: EE: No targets found.
+Thu Jan  1 00:01:35 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:35 1970: Loop 2 finished.
+Thu Jan  1 00:01:35 1970: Getting first jpeg.
+Thu Jan  1 00:01:36 1970: First jpeg received. Size: 71051
+Thu Jan  1 00:01:36 1970: Getting second jpeg.
+Thu Jan  1 00:01:36 1970: Second jpeg received. Size: 61400
+Thu Jan  1 00:01:36 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:37 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:37 1970: EE: No targets found.
+Thu Jan  1 00:01:37 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:37 1970: Loop 3 finished.
+Thu Jan  1 00:01:37 1970: Getting first jpeg.
+Thu Jan  1 00:01:38 1970: First jpeg received. Size: 54758
+Thu Jan  1 00:01:38 1970: Getting second jpeg.
+Thu Jan  1 00:01:38 1970: Second jpeg received. Size: 63536
+Thu Jan  1 00:01:38 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:39 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:39 1970: EE: No targets found.
+Thu Jan  1 00:01:39 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:39 1970: Loop 4 finished.
+Thu Jan  1 00:01:39 1970: Getting first jpeg.
+Thu Jan  1 00:01:40 1970: First jpeg received. Size: 49692
+Thu Jan  1 00:01:40 1970: Getting second jpeg.
+Thu Jan  1 00:01:40 1970: Second jpeg received. Size: 56009
+Thu Jan  1 00:01:40 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:41 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:41 1970: EE: No targets found.
+Thu Jan  1 00:01:41 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:41 1970: Loop 5 finished.
+Thu Jan  1 00:01:41 1970: Getting first jpeg.
+Thu Jan  1 00:01:41 1970: First jpeg received. Size: 60222
+Thu Jan  1 00:01:42 1970: Getting second jpeg.
+Thu Jan  1 00:01:42 1970: Second jpeg received. Size: 68541
+Thu Jan  1 00:01:42 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:43 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:43 1970: EE: No targets found.
+Thu Jan  1 00:01:43 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:43 1970: Loop 6 finished.
+Thu Jan  1 00:01:43 1970: Getting first jpeg.
+Thu Jan  1 00:01:43 1970: First jpeg received. Size: 48807
+Thu Jan  1 00:01:43 1970: Getting second jpeg.
+Thu Jan  1 00:01:44 1970: Second jpeg received. Size: 40953
+Thu Jan  1 00:01:44 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:44 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:45 1970: EE: No targets found.
+Thu Jan  1 00:01:45 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:45 1970: Loop 7 finished.
+Thu Jan  1 00:01:45 1970: Getting first jpeg.
+Thu Jan  1 00:01:45 1970: First jpeg received. Size: 51383
+Thu Jan  1 00:01:46 1970: Getting second jpeg.
+Thu Jan  1 00:01:46 1970: Second jpeg received. Size: 44978
+Thu Jan  1 00:01:46 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:46 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:47 1970: EE: No targets found.
+Thu Jan  1 00:01:47 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:47 1970: Loop 8 finished.
+Thu Jan  1 00:01:47 1970: Getting first jpeg.
+Thu Jan  1 00:01:47 1970: First jpeg received. Size: 47788
+Thu Jan  1 00:01:48 1970: Getting second jpeg.
+Thu Jan  1 00:01:48 1970: Second jpeg received. Size: 38876
+Thu Jan  1 00:01:48 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:49 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:49 1970: EE: No targets found.
+Thu Jan  1 00:01:49 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:49 1970: Loop 9 finished.
+Thu Jan  1 00:01:49 1970: Getting first jpeg.
+Thu Jan  1 00:01:50 1970: First jpeg received. Size: 48287
+Thu Jan  1 00:01:50 1970: Getting second jpeg.
+Thu Jan  1 00:01:50 1970: Second jpeg received. Size: 48837
+Thu Jan  1 00:01:50 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:51 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:51 1970: EE: No targets found.
+Thu Jan  1 00:01:51 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:51 1970: Loop 10 finished.
+Thu Jan  1 00:01:51 1970: Getting first jpeg.
+Thu Jan  1 00:01:51 1970: First jpeg received. Size: 45264
+Thu Jan  1 00:01:52 1970: Getting second jpeg.
+Thu Jan  1 00:01:52 1970: Second jpeg received. Size: 45655
+Thu Jan  1 00:01:52 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:52 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:53 1970: EE: No targets found.
+Thu Jan  1 00:01:53 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:53 1970: Loop 11 finished.
+Thu Jan  1 00:01:53 1970: Getting first jpeg.
+Thu Jan  1 00:01:53 1970: First jpeg received. Size: 50331
+Thu Jan  1 00:01:54 1970: Getting second jpeg.
+Thu Jan  1 00:01:54 1970: Second jpeg received. Size: 43457
+Thu Jan  1 00:01:54 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:55 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:55 1970: EE: No targets found.
+Thu Jan  1 00:01:55 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:55 1970: Loop 12 finished.
+Thu Jan  1 00:01:55 1970: Getting first jpeg.
+Thu Jan  1 00:01:55 1970: First jpeg received. Size: 62885
+Thu Jan  1 00:01:55 1970: Getting second jpeg.
+Thu Jan  1 00:01:56 1970: Second jpeg received. Size: 58898
+Thu Jan  1 00:01:56 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:56 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:57 1970: EE: No targets found.
+Thu Jan  1 00:01:57 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:57 1970: Loop 13 finished.
+Thu Jan  1 00:01:57 1970: Getting first jpeg.
+Thu Jan  1 00:01:57 1970: First jpeg received. Size: 44839
+Thu Jan  1 00:01:57 1970: Getting second jpeg.
+Thu Jan  1 00:01:57 1970: Second jpeg received. Size: 42624
+Thu Jan  1 00:01:58 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:01:58 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:01:59 1970: EE: No targets found.
+Thu Jan  1 00:01:59 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:01:59 1970: Loop 14 finished.
+Thu Jan  1 00:01:59 1970: Getting first jpeg.
+Thu Jan  1 00:01:59 1970: First jpeg received. Size: 42551
+Thu Jan  1 00:01:59 1970: Getting second jpeg.
+Thu Jan  1 00:01:59 1970: Second jpeg received. Size: 37856
+Thu Jan  1 00:01:59 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:00 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:01 1970: EE: No targets found.
+Thu Jan  1 00:02:01 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:01 1970: Loop 15 finished.
+Thu Jan  1 00:02:01 1970: Getting first jpeg.
+Thu Jan  1 00:02:01 1970: First jpeg received. Size: 42192
+Thu Jan  1 00:02:01 1970: Getting second jpeg.
+Thu Jan  1 00:02:01 1970: Second jpeg received. Size: 43883
+Thu Jan  1 00:02:01 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:02 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:03 1970: EE: No targets found.
+Thu Jan  1 00:02:03 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:03 1970: Loop 16 finished.
+Thu Jan  1 00:02:03 1970: Getting first jpeg.
+Thu Jan  1 00:02:03 1970: First jpeg received. Size: 39844
+Thu Jan  1 00:02:03 1970: Getting second jpeg.
+Thu Jan  1 00:02:03 1970: Second jpeg received. Size: 40463
+Thu Jan  1 00:02:03 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:04 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:04 1970: EE: No targets found.
+Thu Jan  1 00:02:04 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:04 1970: Loop 17 finished.
+Thu Jan  1 00:02:04 1970: Getting first jpeg.
+Thu Jan  1 00:02:05 1970: First jpeg received. Size: 40013
+Thu Jan  1 00:02:05 1970: Getting second jpeg.
+Thu Jan  1 00:02:05 1970: Second jpeg received. Size: 39124
+Thu Jan  1 00:02:05 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:06 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:06 1970: EE: No targets found.
+Thu Jan  1 00:02:06 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:06 1970: Loop 18 finished.
+Thu Jan  1 00:02:06 1970: Getting first jpeg.
+Thu Jan  1 00:02:06 1970: First jpeg received. Size: 43442
+Thu Jan  1 00:02:07 1970: Getting second jpeg.
+Thu Jan  1 00:02:07 1970: Second jpeg received. Size: 42688
+Thu Jan  1 00:02:07 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:07 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:08 1970: EE: No targets found.
+Thu Jan  1 00:02:08 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:08 1970: Loop 19 finished.
+Thu Jan  1 00:02:08 1970: Getting first jpeg.
+Thu Jan  1 00:02:08 1970: First jpeg received. Size: 43923
+Thu Jan  1 00:02:08 1970: Getting second jpeg.
+Thu Jan  1 00:02:08 1970: Second jpeg received. Size: 41575
+Thu Jan  1 00:02:09 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:09 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:10 1970: EE: No targets found.
+Thu Jan  1 00:02:10 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:10 1970: Loop 20 finished.
+Thu Jan  1 00:02:10 1970: Getting first jpeg.
+Thu Jan  1 00:02:10 1970: First jpeg received. Size: 40989
+Thu Jan  1 00:02:10 1970: Getting second jpeg.
+Thu Jan  1 00:02:11 1970: Second jpeg received. Size: 40275
+Thu Jan  1 00:02:11 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:11 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:12 1970: EE: No targets found.
+Thu Jan  1 00:02:12 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:12 1970: Loop 21 finished.
+Thu Jan  1 00:02:12 1970: Getting first jpeg.
+Thu Jan  1 00:02:12 1970: First jpeg received. Size: 44054
+Thu Jan  1 00:02:12 1970: Getting second jpeg.
+Thu Jan  1 00:02:13 1970: Second jpeg received. Size: 42587
+Thu Jan  1 00:02:13 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:14 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:14 1970: EE: No targets found.
+Thu Jan  1 00:02:14 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:14 1970: Loop 22 finished.
+Thu Jan  1 00:02:14 1970: Getting first jpeg.
+Thu Jan  1 00:02:14 1970: First jpeg received. Size: 43052
+Thu Jan  1 00:02:14 1970: Getting second jpeg.
+Thu Jan  1 00:02:15 1970: Second jpeg received. Size: 41482
+Thu Jan  1 00:02:15 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:16 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:16 1970: EE: No targets found.
+Thu Jan  1 00:02:16 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:16 1970: Loop 23 finished.
+Thu Jan  1 00:02:16 1970: Getting first jpeg.
+Thu Jan  1 00:02:16 1970: First jpeg received. Size: 51230
+Thu Jan  1 00:02:16 1970: Getting second jpeg.
+Thu Jan  1 00:02:17 1970: Second jpeg received. Size: 35268
+Thu Jan  1 00:02:17 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:17 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:18 1970: EE: No targets found.
+Thu Jan  1 00:02:18 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:18 1970: Loop 24 finished.
+Thu Jan  1 00:02:18 1970: Getting first jpeg.
+Thu Jan  1 00:02:18 1970: First jpeg received. Size: 52212
+Thu Jan  1 00:02:18 1970: Getting second jpeg.
+Thu Jan  1 00:02:19 1970: Second jpeg received. Size: 39083
+Thu Jan  1 00:02:19 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:19 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:20 1970: EE: No targets found.
+Thu Jan  1 00:02:20 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:20 1970: Loop 25 finished.
+Thu Jan  1 00:02:20 1970: Getting first jpeg.
+Thu Jan  1 00:02:20 1970: First jpeg received. Size: 49521
+Thu Jan  1 00:02:20 1970: Getting second jpeg.
+Thu Jan  1 00:02:21 1970: Second jpeg received. Size: 29613
+Thu Jan  1 00:02:21 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:22 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:22 1970: EE: No targets found.
+Thu Jan  1 00:02:22 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:22 1970: Loop 26 finished.
+Thu Jan  1 00:02:22 1970: Getting first jpeg.
+Thu Jan  1 00:02:22 1970: First jpeg received. Size: 32710
+Thu Jan  1 00:02:22 1970: Getting second jpeg.
+Thu Jan  1 00:02:23 1970: Second jpeg received. Size: 40713
+Thu Jan  1 00:02:23 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:23 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:24 1970: EE: No targets found.
+Thu Jan  1 00:02:24 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:24 1970: Loop 27 finished.
+Thu Jan  1 00:02:24 1970: Getting first jpeg.
+Thu Jan  1 00:02:24 1970: First jpeg received. Size: 34678
+Thu Jan  1 00:02:24 1970: Getting second jpeg.
+Thu Jan  1 00:02:24 1970: Second jpeg received. Size: 42094
+Thu Jan  1 00:02:25 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:25 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:26 1970: EE: No targets found.
+Thu Jan  1 00:02:26 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:26 1970: Loop 28 finished.
+Thu Jan  1 00:02:26 1970: Getting first jpeg.
+Thu Jan  1 00:02:26 1970: First jpeg received. Size: 36366
+Thu Jan  1 00:02:26 1970: Getting second jpeg.
+Thu Jan  1 00:02:26 1970: Second jpeg received. Size: 43809
+Thu Jan  1 00:02:27 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:27 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:28 1970: EE: No targets found.
+Thu Jan  1 00:02:28 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:28 1970: Loop 29 finished.
+Thu Jan  1 00:02:28 1970: Getting first jpeg.
+Thu Jan  1 00:02:28 1970: First jpeg received. Size: 32240
+Thu Jan  1 00:02:28 1970: Getting second jpeg.
+Thu Jan  1 00:02:29 1970: Second jpeg received. Size: 40773
+Thu Jan  1 00:02:29 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:29 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:30 1970: EE: No targets found.
+Thu Jan  1 00:02:30 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:30 1970: Loop 30 finished.
+Thu Jan  1 00:02:30 1970: Getting first jpeg.
+Thu Jan  1 00:02:30 1970: First jpeg received. Size: 57501
+Thu Jan  1 00:02:30 1970: Getting second jpeg.
+Thu Jan  1 00:02:31 1970: Second jpeg received. Size: 59446
+Thu Jan  1 00:02:31 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:31 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:32 1970: EE: No targets found.
+Thu Jan  1 00:02:32 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:32 1970: Loop 31 finished.
+Thu Jan  1 00:02:32 1970: Getting first jpeg.
+Thu Jan  1 00:02:32 1970: First jpeg received. Size: 61901
+Thu Jan  1 00:02:32 1970: Getting second jpeg.
+Thu Jan  1 00:02:33 1970: Second jpeg received. Size: 60031
+Thu Jan  1 00:02:33 1970: Detecting blobs on camera 1.
+Thu Jan  1 00:02:33 1970: Detecting blobs on camera 2.
+Thu Jan  1 00:02:34 1970: EE: No targets found.
+Thu Jan  1 00:02:34 1970: EE: Some cams didn't detect red+green blobs.
+Thu Jan  1 00:02:34 1970: Loop 32 finished.
+Thu Jan  1 00:02:34 1970: Getting first jpeg.
+Thu Jan  1 00:02:34 1970: First jpeg received. Size: 54101
+Thu Jan  1 00:02:34 1970: GetSun Mar 01 16:06:59 2009: Log File 'blob.log' Opened.  Blob v1.0
+Sun Mar 01 16:06:59 2009: Got tolerance values from colors.tol.
+Sun Mar 01 16:06:59 2009: Seeking blue targets.
+Sun Mar 01 16:06:59 2009: Beginning main loop.
+Sun Mar 01 16:06:59 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:06:59 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:06:59 2009: EE: No targets found.
+Sun Mar 01 16:06:59 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:06:59 2009: Image built. Writing to file: IMG1235941619.jpg
+Sun Mar 01 16:07:00 2009: Loop 0 finished.
+Sun Mar 01 16:07:00 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:00 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:00 2009: EE: No targets found.
+Sun Mar 01 16:07:00 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:00 2009: Image built. Writing to file: IMG1235941620.jpg
+Sun Mar 01 16:07:00 2009: Loop 1 finished.
+Sun Mar 01 16:07:00 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:00 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:00 2009: EE: No targets found.
+Sun Mar 01 16:07:00 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:00 2009: Image built. Writing to file: IMG1235941620.jpg
+Sun Mar 01 16:07:00 2009: Loop 2 finished.
+Sun Mar 01 16:07:00 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:01 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:01 2009: EE: No targets found.
+Sun Mar 01 16:07:01 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:01 2009: Image built. Writing to file: IMG1235941621.jpg
+Sun Mar 01 16:07:01 2009: Loop 3 finished.
+Sun Mar 01 16:07:01 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:01 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:01 2009: EE: No targets found.
+Sun Mar 01 16:07:01 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:01 2009: Image built. Writing to file: IMG1235941621.jpg
+Sun Mar 01 16:07:02 2009: Loop 4 finished.
+Sun Mar 01 16:07:02 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:02 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:02 2009: EE: No targets found.
+Sun Mar 01 16:07:02 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:02 2009: Image built. Writing to file: IMG1235941622.jpg
+Sun Mar 01 16:07:02 2009: Loop 5 finished.
+Sun Mar 01 16:07:02 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:02 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:02 2009: EE: No targets found.
+Sun Mar 01 16:07:02 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:02 2009: Image built. Writing to file: IMG1235941622.jpg
+Sun Mar 01 16:07:02 2009: Loop 6 finished.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:03 2009: EE: No targets found.
+Sun Mar 01 16:07:03 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:03 2009: Image built. Writing to file: IMG1235941623.jpg
+Sun Mar 01 16:07:03 2009: Loop 7 finished.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:03 2009: EE: No targets found.
+Sun Mar 01 16:07:03 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:03 2009: Image built. Writing to file: IMG1235941623.jpg
+Sun Mar 01 16:07:03 2009: Loop 8 finished.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:03 2009: EE: No targets found.
+Sun Mar 01 16:07:03 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:03 2009: Image built. Writing to file: IMG1235941623.jpg
+Sun Mar 01 16:07:03 2009: Loop 9 finished.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:03 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:04 2009: EE: No targets found.
+Sun Mar 01 16:07:04 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:04 2009: Image built. Writing to file: IMG1235941624.jpg
+Sun Mar 01 16:07:04 2009: Loop 10 finished.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:04 2009: EE: No targets found.
+Sun Mar 01 16:07:04 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:04 2009: Image built. Writing to file: IMG1235941624.jpg
+Sun Mar 01 16:07:04 2009: Loop 11 finished.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:04 2009: EE: No targets found.
+Sun Mar 01 16:07:04 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:04 2009: Image built. Writing to file: IMG1235941624.jpg
+Sun Mar 01 16:07:04 2009: Loop 12 finished.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:04 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:04 2009: EE: No targets found.
+Sun Mar 01 16:07:04 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:05 2009: Image built. Writing to file: IMG1235941625.jpg
+Sun Mar 01 16:07:05 2009: Loop 13 finished.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:05 2009: EE: No targets found.
+Sun Mar 01 16:07:05 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:05 2009: Image built. Writing to file: IMG1235941625.jpg
+Sun Mar 01 16:07:05 2009: Loop 14 finished.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:05 2009: EE: No targets found.
+Sun Mar 01 16:07:05 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:05 2009: Image built. Writing to file: IMG1235941625.jpg
+Sun Mar 01 16:07:05 2009: Loop 15 finished.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:05 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:05 2009: EE: No targets found.
+Sun Mar 01 16:07:05 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:05 2009: Image built. Writing to file: IMG1235941625.jpg
+Sun Mar 01 16:07:06 2009: Loop 16 finished.
+Sun Mar 01 16:07:06 2009: Detecting blobs on camera 1.
+Sun Mar 01 16:07:06 2009: Detecting blobs on camera 2.
+Sun Mar 01 16:07:06 2009: EE: No targets found.
+Sun Mar 01 16:07:06 2009: Blob detection completed.  Building image.
+Sun Mar 01 16:07:06 2009: Image built. Writing to file: IMG1235941626.jpg
+Wed Mar 04 11:39:06 2009: Log File 'blob.log' Opened.  Blob v1.0
+Wed Mar 04 11:39:06 2009: Got tolerance values from colors.tol.
+Wed Mar 04 11:39:06 2009: Seeking blue targets.
+Wed Mar 04 11:39:06 2009: Beginning main loop.
+Wed Mar 04 11:39:06 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:06 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:06 2009: EE: No targets found.
+Wed Mar 04 11:39:06 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:06 2009: Image built. Writing to file: TEST24-1236184746.jpg
+Wed Mar 04 11:39:06 2009: Loop 0 finished.
+Wed Mar 04 11:39:06 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:06 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:06 2009: EE: No targets found.
+Wed Mar 04 11:39:06 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:07 2009: Image built. Writing to file: TEST24-1236184747.jpg
+Wed Mar 04 11:39:07 2009: Loop 1 finished.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:07 2009: EE: No targets found.
+Wed Mar 04 11:39:07 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:07 2009: Image built. Writing to file: TEST24-1236184747.jpg
+Wed Mar 04 11:39:07 2009: Loop 2 finished.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:07 2009: EE: No targets found.
+Wed Mar 04 11:39:07 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:07 2009: Image built. Writing to file: TEST24-1236184747.jpg
+Wed Mar 04 11:39:07 2009: Loop 3 finished.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:07 2009: EE: No targets found.
+Wed Mar 04 11:39:07 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:07 2009: Image built. Writing to file: TEST24-1236184747.jpg
+Wed Mar 04 11:39:07 2009: Loop 4 finished.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:07 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:07 2009: EE: No targets found.
+Wed Mar 04 11:39:07 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:08 2009: Image built. Writing to file: TEST24-1236184748.jpg
+Wed Mar 04 11:39:08 2009: Loop 5 finished.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:08 2009: EE: No targets found.
+Wed Mar 04 11:39:08 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:08 2009: Image built. Writing to file: TEST24-1236184748.jpg
+Wed Mar 04 11:39:08 2009: Loop 6 finished.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:08 2009: EE: No targets found.
+Wed Mar 04 11:39:08 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:08 2009: Image built. Writing to file: TEST24-1236184748.jpg
+Wed Mar 04 11:39:08 2009: Loop 7 finished.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:39:08 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:39:08 2009: EE: No targets found.
+Wed Mar 04 11:39:08 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:39:08 2009: Image built. Writing to file: TEST24-1236184748.jpg
+Wed Mar 04 11:39:08 2009: Loop 8 finished.
+Wed Mar 04 11:41:09 2009: Log File 'blob.log' Opened.  Blob v1.0
+Wed Mar 04 11:41:09 2009: Got tolerance values from colors.tol.
+Wed Mar 04 11:41:09 2009: Seeking blue targets.
+Wed Mar 04 11:41:09 2009: Beginning main loop.
+Wed Mar 04 11:41:09 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:10 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:10 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:10 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:10 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:10 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:10 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:10 2009: Image built. Writing to file: TEST9-1236184870.jpg
+Wed Mar 04 11:41:10 2009: Loop 0 finished.
+Wed Mar 04 11:41:10 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:10 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:10 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:10 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:10 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:11 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:11 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:11 2009: Image built. Writing to file: TEST9-1236184871.jpg
+Wed Mar 04 11:41:11 2009: Loop 1 finished.
+Wed Mar 04 11:41:11 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:11 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:11 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:11 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:11 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:11 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:11 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:11 2009: Image built. Writing to file: TEST9-1236184871.jpg
+Wed Mar 04 11:41:11 2009: Loop 2 finished.
+Wed Mar 04 11:41:11 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:11 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:11 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:11 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:12 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:12 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:12 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:12 2009: Image built. Writing to file: TEST9-1236184872.jpg
+Wed Mar 04 11:41:12 2009: Loop 3 finished.
+Wed Mar 04 11:41:12 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:12 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:12 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:12 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:12 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:12 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:12 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:12 2009: Image built. Writing to file: TEST9-1236184872.jpg
+Wed Mar 04 11:41:12 2009: Loop 4 finished.
+Wed Mar 04 11:41:12 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:12 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:12 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:12 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:13 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:13 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:13 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:13 2009: Image built. Writing to file: TEST9-1236184873.jpg
+Wed Mar 04 11:41:13 2009: Loop 5 finished.
+Wed Mar 04 11:41:13 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:13 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:13 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:13 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:13 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:13 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:13 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:13 2009: Image built. Writing to file: TEST9-1236184873.jpg
+Wed Mar 04 11:41:13 2009: Loop 6 finished.
+Wed Mar 04 11:41:13 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:13 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:13 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:13 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:13 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:14 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:14 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:14 2009: Image built. Writing to file: TEST9-1236184874.jpg
+Wed Mar 04 11:41:14 2009: Loop 7 finished.
+Wed Mar 04 11:41:14 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:41:14 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:41:14 2009: Found a blue target. Center: (291, 285).
+
+Wed Mar 04 11:41:14 2009: Sending left & right motor commands.
+Wed Mar 04 11:41:14 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:41:14 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:41:14 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:41:14 2009: Image built. Writing to file: TEST9-1236184874.jpg
+Wed Mar 04 11:41:14 2009: Loop 8 finished.
+Wed Mar 04 11:46:36 2009: Log File 'blob.log' Opened.  Blob v1.0
+Wed Mar 04 11:46:36 2009: Got tolerance values from colors.tol.
+Wed Mar 04 11:46:36 2009: Seeking blue targets.
+Wed Mar 04 11:46:36 2009: Beginning main loop.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:46:36 2009: EE: No targets found.
+Wed Mar 04 11:46:36 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:46:36 2009: Image built. Writing to file: TEST9-1236185196.jpg
+Wed Mar 04 11:46:36 2009: Loop 0 finished.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:46:36 2009: EE: No targets found.
+Wed Mar 04 11:46:36 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:46:36 2009: Image built. Writing to file: TEST9-1236185196.jpg
+Wed Mar 04 11:46:36 2009: Loop 1 finished.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:46:36 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:46:36 2009: EE: No targets found.
+Wed Mar 04 11:46:36 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:46:36 2009: Image built. Writing to file: TEST9-1236185196.jpg
+Wed Mar 04 11:46:37 2009: Loop 2 finished.
+Wed Mar 04 11:46:37 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:46:37 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:46:37 2009: EE: No targets found.
+Wed Mar 04 11:46:37 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:46:37 2009: Image built. Writing to file: TEST9-1236185197.jpg
+Wed Mar 04 11:46:37 2009: Loop 3 finished.
+Wed Mar 04 11:46:37 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:46:37 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:46:37 2009: EE: No targets found.
+Wed Mar 04 11:46:37 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:46:37 2009: Image built. Writing to file: TEST9-1236185197.jpg
+Wed Mar 04 11:53:29 2009: Log File 'blob.log' Opened.  Blob v1.0
+Wed Mar 04 11:53:29 2009: Got tolerance values from colors.tol.
+Wed Mar 04 11:53:29 2009: Seeking blue targets.
+Wed Mar 04 11:53:29 2009: Beginning main loop.
+Wed Mar 04 11:53:29 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:53:29 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:53:29 2009: Found a blue target. Center: (323, 296).
+
+Wed Mar 04 11:53:29 2009: Sending left & right motor commands.
+Wed Mar 04 11:53:29 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:53:30 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:53:30 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:53:30 2009: Image built. Writing to file: TEST9-1236185610.jpg
+Wed Mar 04 11:53:30 2009: Loop 0 finished.
+Wed Mar 04 11:53:30 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:53:30 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:53:30 2009: Found a blue target. Center: (323, 296).
+
+Wed Mar 04 11:53:30 2009: Sending left & right motor commands.
+Wed Mar 04 11:53:30 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:53:30 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:53:30 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:53:30 2009: Image built. Writing to file: TEST9-1236185610.jpg
+Wed Mar 04 11:53:30 2009: Loop 1 finished.
+Wed Mar 04 11:53:30 2009: Detecting blobs on camera 1.
+Wed Mar 04 11:53:30 2009: Detecting blobs on camera 2.
+Wed Mar 04 11:53:30 2009: Found a blue target. Center: (323, 296).
+
+Wed Mar 04 11:53:30 2009: Sending left & right motor commands.
+Wed Mar 04 11:53:30 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO58
+Wed Mar 04 11:53:30 2009: Running cmd: echo "GPIO out set" >> /proc/gpio/GPIO59
+Wed Mar 04 11:53:30 2009: Blob detection completed.  Building image.
+Wed Mar 04 11:53:30 2009: Image built. Writing to file: TEST9-1236185610.jpg
+Wed Mar 04 11:53:31 2009: Loop 2 finished.

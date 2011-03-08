@@ -1,0 +1,8 @@
+DFW status and trace log : Sat Jan 30 09:58:05 2010
+
+09:58:05.093 ERROR: Socket Closed. API: recv, SessionId: 7684: SocketHandler::Read
+  SevError(2) : sockethandler.cpp : 92
+09:58:05.093 ERROR: Socket Closed. API: recv, SessionId: 7684
+  SevError(2) : sockethandler.cpp : 92
+09:58:05.109 Operation succeeded: ShutdownServer
+  Reason: ERRNone  Severity: ERRSuccessful

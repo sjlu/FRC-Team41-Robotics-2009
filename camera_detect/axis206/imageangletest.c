@@ -1,0 +1,1 @@
+#include <stdio.h>#include "depth.h"voidmain (void){  int i = 0;  for (i = 0; i <= 640; i++)   // if (image_angle ((double)i) > 180)      printf ("image_angle (%d): %f\n", i, image_angle (i));}

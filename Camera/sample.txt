@@ -1,0 +1,10 @@
+FRC Vision Simple Tracker Template
+--------------------------------
+
+This program is the simplest sample program that implements
+an autonomous action (in this case, drive) based on color tracking. 
+This is an excellent starting point for your programs.
+
+This program follows a green target during the
+Autonomous period and does simple arcade driving during 
+the Operator Control period.

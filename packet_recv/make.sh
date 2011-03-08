@@ -1,0 +1,1 @@
+gcc main.c -lws2_32 -o packet_recv.exe

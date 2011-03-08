@@ -1,0 +1,1 @@
+#include <stdio.h>#include <time.h>intmain (void){  time_t rawtime;  time (&rawtime);  char * time = ctime (&rawtime);  time[strlen(time)-1] = '\0';  printf ( "The current local time is: %s\n", time);  printf ( "The current local time is: %s\n", time);  return 0;}

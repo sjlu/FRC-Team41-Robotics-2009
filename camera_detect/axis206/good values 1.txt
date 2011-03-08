@@ -1,0 +1,8 @@
+Check tolerance 86 
+Blob min length: 50 
+Check R red 85 
+Check R green 223 
+Check R blue 41 
+Check G red 254 
+Check G green 60 
+Check G blue 157 
